@@ -1,2 +1,2 @@
 # Ila-Island-map
-Completely imaginary map for Ila Island. 
+Imaginary map for Ila Island. 
