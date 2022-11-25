@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="1791.5"
-     inkscape:cy="6248.9998"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="1648.625"
+     inkscape:cy="6309.4998"
      inkscape:window-width="1920"
      inkscape:window-height="1000"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer119"
+     inkscape:current-layer="layer79"
      gridtolerance="10000"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -5767,6 +5767,28 @@
        offset="2"
        mark_dir="right"
        border_marks="none" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect41048-5"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="1.6"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect41048-1"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="1.6"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -6364,6 +6386,10 @@
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
        d="m 2614.9817,3793.9681 c 9.7161,24.6472 20.2368,57.2038 25.355,108.1285 l -7.3362,6.7455 68.8544,82.0685 194.2286,-162.9899 -74.7267,-161.2902 -94.6204,42.0562 z"
        transform="matrix(0.26458333,0,0,0.26458333,-570,-449.99997)" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.529166px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 59.319494,1276.5945 3.431513,-27.1758 29.170312,3.7042 0.992188,-7.9375 22.721093,2.8773 3.20807,3.2081 27.23919,-6.1072 9.5883,6.0804 4.88769,-1.0991 5.86991,26.2392 -58.51198,13.1196 h -8.839944 z"
+       id="path1129063" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7088,19 +7114,22 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="州道"
-     transform="translate(570,449.99997)"
-     sodipodi:insensitive="true">
+     transform="translate(570,449.99997)">
     <g
        inkscape:groupmode="layer"
        id="layer127"
-       inkscape:label="9xxx淵"
-       sodipodi:insensitive="true">
+       inkscape:label="9xxx淵">
       <path
          style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#808000;stroke-width:6.04724;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m 2088.7975,5584.9057 h 46.1792 l 16.3957,-12.1088"
          transform="matrix(0.26458333,0,0,0.26458333,-570,-449.99997)"
          id="path20526"
          sodipodi:nodetypes="ccc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#808000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 253.99999,1224.2 1.20232,6.7309"
+         id="path1281269"
+         transform="translate(-2.2916668e-6)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -7136,13 +7165,17 @@
          transform="matrix(0.26458333,0,0,0.26458333,-570,-449.99997)" />
       <path
          id="path247781"
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m 1959.6012,5690.6732 226.7602,162.8092 15.7762,1.6434 6.0252,0.6298 166.8067,119.7839 c 13.4794,9.6795 23.8903,35.9289 21.4154,58.5563 -2.4749,22.6274 -8.4853,53.7401 -6.7175,78.4889 1.7934,25.1079 5.7668,36.4847 14.6354,56.5518 8.4472,19.1136 29.4472,58.8636 29.4472,58.8636"
-         sodipodi:nodetypes="ccccssssc"
-         transform="matrix(0.26458333,0,0,0.26458333,-570,-449.99997)" />
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -50.960923,1056.2186 59.9969688,43.0766 4.1741192,0.4348 1.594168,0.1666 44.134272,31.6928 c 3.566424,2.5611 6.320975,9.5062 5.666158,15.4931 -0.654817,5.9868 -2.245069,14.2187 -1.777339,20.7668 0.474504,6.6431 1.525799,9.6533 3.872283,14.9627 2.234988,5.0571 7.791238,15.5743 7.791238,15.5743"
+         sodipodi:nodetypes="ccccssssc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -169.63026,1240.7671 -2.53739,0.4911 c -1.15725,0.224 -2.37369,-0.094 -3.42606,-0.5847 l -7.69402,-4.2796 c -1.45352,-0.8085 -2.47291,-2.1409 -3.40302,-4.3031 -0.79851,-1.8562 -1.11863,-2.8796 -2.24311,-4.401 -2.84427,0.1985 -4.81897,-2.4258 -8.33438,-2.282 -5.47504,0.224 -9.06314,1.791 -10.66656,3.4971 -3.55277,3.7804 -4.54698,5.0358 -6.06833,8.6076 -2.18175,5.1224 -5.22552,9.9219 -8.7974,12.3031 -3.57187,2.3813 -4.44433,3.3062 -5.09323,4.8948 l -2.26604,5.5476"
+         id="path1341518"
+         sodipodi:nodetypes="cscsscsssssc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m -3.191493,1090.4019 20.580852,76.8088 c 0,0 2.154609,8.0411 3.258439,12.1607 1.10383,4.1195 0.232932,8.8625 -1.354568,12.8312 -1.5875,3.9688 -4.105911,7.5049 -8.92971,8.7974 -4.8237987,1.2925 -92.60416,25.6646 -92.60416,25.6646"
+         d="m -3.191493,1090.4019 20.580852,76.8088 c 0,0 2.154609,8.0411 3.258439,12.1607 1.10383,4.1195 0.232932,8.8625 -1.354568,12.8312 -1.5875,3.9688 -4.105911,7.5049 -8.92971,8.7974 -4.8237987,1.2925 -92.60416,25.6646 -92.60416,25.6646 l -26.9875,5.1594 -5.35781,-1.5876 -22.23363,4.2457 -32.81068,6.285"
          id="path251812" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
@@ -7301,6 +7334,71 @@
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 91.176908,1122.058 37.457062,14.618"
          id="path1184310" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 86.869,1223.198 6.381427,8.8199 v 0 c 0,0 3.565702,5.1639 3.764139,8.6696 0.198438,3.5057 2.248958,4.8286 3.638024,5.8208 1.38906,0.9922 3.11541,2.1819 3.11541,4.6302 v 11.1776 l 4.4e-4,8.4969 5.1546,2e-4"
+         id="path1220757"
+         sodipodi:nodetypes="csssssccc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 108.92329,1270.8132 5.22882,-2e-4 15.3724,2e-4 14.13687,-3.1522 9.81639,-2.2184 6.80527,-1.538 8.99796,-14.6716"
+         id="path1231336"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 184.749,1245.695 14.2284,-3.598 45.84393,-9.1297 c 2e-5,0 132.81197,-26.4784 132.81197,-26.4784 l -2.88232,-14.552 c -0.94458,-4.7689 -3.22465,-9.4136 -5.61266,-11.5059 l -6.22763,-5.4565 0.0134,-24.5713"
+         id="path1241322"
+         sodipodi:nodetypes="ccccsscc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 333.36263,1215.3149 -2.721,-13.6535 c -0.69978,-3.5114 -0.2569,-5.6851 1.12448,-8.7974 l 5.48989,-12.369"
+         id="path1271223"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 253.99999,1224.2 1.20232,6.7309"
+         id="path1281224" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 103.7687,1270.813 -5.300901,2e-4 -29.479107,-3.6868"
+         id="path1291152" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="M 68.988692,1267.1264 52.3972,1265.0418 c -7.392668,-0.9288 -17.123923,-6.7138 -26.052092,-7.7174 l -16.8277641,-1.8915 -6.0672132,-0.681 c -2.76156392,-0.31 -6.8521262,1.1226 -9.3778122,3.6482 -2.5257124,2.5257 -9.1785095,8.1514 -13.1897435,9.0739 -4.314401,0.9922 -9.578793,0.4202 -13.751031,-2.9935 l -10.289884,-8.419 c -2.309951,-1.89 -7.141553,-2.409 -7.141553,-2.409 0,0 -5.48693,-0.7715 -10.164128,-0.7715 -4.677225,0 -24.228001,3.3676 -27.876208,4.4902 -3.648234,1.1225 -9.504918,3.3364 -9.504918,3.3364 0,0 -5.742813,1.902 -9.110423,4.8019 -3.36759,2.8999 -6.92227,9.7286 -14.03165,10.1028 -7.10935,0.3742 -17.47141,-3.4716 -21.79582,-6.8287 -3.85607,-2.9935 -6.17953,-4.6444 -9.54153,-4.3031 l -8.41095,0.8538 -19.40094,1.9438 c -4.56464,0.4573 -7.95795,2.381 -11.37709,2.9765 -2.86302,0.4987 -7.34004,0.1108 -10.56416,-0.5603 -4.31015,-0.8971 -8.64278,-2.6369 -10.47021,-3.2761 l -17.61188,-6.1602"
+         id="path1291363"
+         sodipodi:nodetypes="csscssssscsscsssscssssc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -48.637781,1217.4982 1.784456,6.2906 c 0.715341,2.5217 0.904856,6.1505 -0.09356,8.7464 -0.701573,1.824 -1.022141,3.1243 -1.68379,8.2319 l -1.669218,12.8854"
+         id="path1311266"
+         transform="translate(-2.2916668e-6)"
+         sodipodi:nodetypes="csssc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -48.637781,1217.4982 -3.787616,-13.0917"
+         id="path1351644" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -136.81959,1234.4821 -2.08135,-10.9038"
+         id="path1361512" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -82.240658,1226.6646 1.587527,8.3343 c 0.669955,3.5172 -0.837506,8.5679 -0.03307,12.7331 l 1.488282,7.706"
+         id="path1371384"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m -169.63026,1240.7671 -2.12813,-11.0617"
+         id="path1381923" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -160.73552,1265.3343 -0.70961,-6.3261 c -0.20463,-1.8242 -1.77479,-3.9205 -4.00643,-6.3856 -1.59798,-1.7651 -2.571,-3.5079 -2.96262,-5.5413 l -1.21608,-6.3142"
+         id="path1381501" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -82.240658,1226.6646 -3.644053,-13.3762"
+         id="path1391771"
+         transform="translate(-2.2916668e-6)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -7439,9 +7537,9 @@
          sodipodi:nodetypes="csssssssscc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m -343.996,798.36641 h 14.09705 17.60311 c 2.72997,0 6.53809,1.23199 13.55658,1.59805 l 17.66925,0.92157"
-         id="path399959"
-         sodipodi:nodetypes="ccssc" />
+         d="m -281.07001,800.88603 -17.66925,-0.92157 c -5.22651,-0.2726 -6.99129,-0.38198 -11.77924,-1.03678 l -2.76953,3.77518 h -16.5369"
+         id="path851436"
+         sodipodi:nodetypes="csccc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -374.63266,859.94808 c 1.95269,-0.54462 3.92886,-3.83533 4.95785,-6.31426 1.02898,-2.47891 4.45885,-4.5169 6.92228,-4.91106 4.67721,-0.74837 8.11832,3.44695 15.71544,3.78854 6.6054,0.297 12.43322,0.66245 19.87817,4.06918 12.50012,5.71992 11.257,1.41764 28.64041,8.91734"
@@ -7481,9 +7579,10 @@
          id="path416225" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m -343.996,798.36638 v 27.20459"
+         d="m -343.996,825.57097 v -27.20458 l 14.09705,2e-5"
          id="path408029"
-         transform="translate(-2.2916668e-6)" />
+         transform="translate(-2.2916668e-6)"
+         sodipodi:nodetypes="ccc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -355.26898,825.57097 c -0.0468,7.01538 -5.33204,15.41098 -6.17394,22.9647"
@@ -7527,8 +7626,9 @@
          id="path21533" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m -259.90834,882.34302 -38.61017,-16.8452 -7.68647,-33.19206 -7.08305,-29.6029 1.91823,-4.33255"
-         id="path609182" />
+         d="m -259.90834,882.34302 -38.61017,-16.8452 -7.68647,-33.19206 -7.08305,-29.6029"
+         id="path609182"
+         sodipodi:nodetypes="cccc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -302.36968,887.68398 3.56759,15.92435"
@@ -7557,13 +7657,11 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="國道"
-     transform="translate(570,449.99997)"
-     sodipodi:insensitive="true">
+     transform="translate(570,449.99997)">
     <g
        inkscape:groupmode="layer"
        id="layer67"
-       inkscape:label="9x淵"
-       sodipodi:insensitive="true">
+       inkscape:label="9x淵">
       <path
          style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#aa4400;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m 7.65156,1046.1527 c 0,0 16.16788,0.094 24.25948,3e-4 8.09154,-0.093 16.41702,-2.437 22.1232,-4.308 5.7062,-1.8708 38.07258,-12.4414 44.15292,-14.4058 6.08038,-1.9644 12.53494,-6.9222 18.61534,-12.8156 6.08038,-5.8932 31.54124,-30.71421 39.21416,-38.12255 7.67292,-7.40832 25.66458,-18.25624 36.5125,-20.37292 10.84792,-2.11666 40.48124,-3.175 50.93228,-2.9104 10.45104,0.26458 32.14688,0.39686 41.93646,3.175"
@@ -7571,7 +7669,7 @@
          sodipodi:nodetypes="ccssssssc" />
       <path
          style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#aa4400;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         d="m -191.48046,1232.2334 c 2.37823,0 7.77328,-0.1345 11.12241,-0.7905 3.18773,-0.6245 -4.81284,0.8995 11.21034,-2.1528 l 77.215268,-14.5072 9.694241,-2.3529 h 0.0183 c 114.330056,-30.6346 57.165028,-15.3173 81.55541344,-21.8527 l 0.85000876,-0.2278 9.445437,-30.1797"
+         d="m -191.48046,1232.2334 c 2.37823,0 7.77328,-0.1345 11.12241,-0.7905 3.18773,-0.6245 -4.81284,0.8995 11.21034,-2.1528 l 77.215268,-14.5072 9.694241,-2.3529 0.0183,-0 c 114.330056,-30.6346 57.165028,-15.3173 81.55541344,-21.8527 l 0.85000876,-0.2278 9.445437,-30.1797"
          id="path39327-1"
          sodipodi:nodetypes="cccccsc"
          inkscape:path-effect="#path-effect192585"
@@ -7589,8 +7687,8 @@
       <path
          id="path121834-9"
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#aa4400;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m -38.659048,992.72494 28.412122,7.61296 17.8984804,45.8148 3.9135576,10.0047 11.867541,30.3802 -10.097426,14.0618 10.612755,39.6069 c 2.305252,8.6032 5.125149,13.2019 7.905009,16.9696 l 21.135483,28.6463 c 2.050628,2.7794 4.880402,5.0194 8.108073,5.5888 5.274504,0.9305 8.610626,2.6019 10.348951,3.9565 3.778322,2.9445 6.487895,8.0882 8.23618,12.4825 2.291113,5.7587 3.888993,9.9874 7.748135,17.3122"
-         sodipodi:nodetypes="ccccccssssssc" />
+         d="m -38.659048,992.72494 28.412122,7.61296 17.8984804,45.8148 3.9135576,10.0047 11.867541,30.3802 -10.097426,14.0618 10.612755,39.6069 c 2.305252,8.6032 5.125149,13.2019 7.905009,16.9696 l 21.135483,28.6463 c 2.050628,2.7794 4.880402,5.0194 8.108073,5.5888 5.274504,0.9305 8.610626,2.6019 10.348951,3.9565 3.778322,2.9445 6.487895,8.0882 8.23618,12.4825 2.291113,5.7587 4.461026,10.7909 7.186869,15.3478 2.330057,3.8952 4.396337,3.1167 8.231655,3.678 3.835317,0.5612 5.979918,3.3462 11.786588,8.8866 4.45354,4.2493 12.72767,6.3831 17.67988,7.4836 5.05139,1.1225 11.59949,1.029 16.83798,0.5613 5.23848,-0.4678 10.00924,0.8419 15.99608,3.3675 5.98683,2.5257 7.38958,3.0852 11.88013,2.058 l 15.46797,-3.5382 c 6.4967,-1.486 7.02021,-9.0873 13.06305,-10.8676 l 33.02115,-9.7286 c 5.2827,-1.5564 17.48595,-0.3309 23.16697,-0.8984 l 10.27381,-1.0262 c 5.80986,-0.5803 11.39023,-3.0837 15.65086,-5.6513 l 44.49454,-26.814 c 5.22808,-3.1506 10.28462,-5.7928 12.83702,-10.2137 l 14.89875,-25.8054 v -15.7342 c 0,-3.8365 1.69166,-9.1933 5.47416,-11.3771 l 46.46978,-26.8293 c 4.97326,-2.8713 8.56355,-7.0374 10.01876,-10.3446 1.45521,-3.3073 5.55625,-8.599 8.59896,-10.7157"
+         sodipodi:nodetypes="ccccccssssssssssssssssssssscssssc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#aa4400;stroke-width:1.6;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -5.1870849,1163.9415 34.7461399,-9.3102 c 1.621947,-0.4346 3.3489,-1.5041 4.539005,-2.6887 l 6.784478,-6.753 c 1.062933,-1.058 1.596597,-2.5215 1.596597,-3.5885 v -17.1432 l 15.50818,-22.0407 35.52152,-50.5099 7.408345,-25.4662"
@@ -7651,13 +7749,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer56"
-       inkscape:label="9x"
-       sodipodi:insensitive="true">
-      <path
-         id="path121834"
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:0.999998;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m -38.659047,992.72493 28.412122,7.61297 17.8984802,45.8148 3.9135578,10.0047 11.867541,30.3802 -10.097426,14.0618 10.612755,39.6069 c 2.305252,8.6032 5.125149,13.2019 7.905009,16.9696 l 21.135483,28.6463 c 2.050628,2.7794 4.880402,5.0194 8.108073,5.5888 5.274504,0.9305 8.610626,2.6019 10.348951,3.9565 3.778322,2.9445 6.487895,8.0882 8.23618,12.4825 2.291113,5.7587 3.888993,9.9874 7.748135,17.3122"
-         sodipodi:nodetypes="ccccccssssssc" />
+       inkscape:label="9x">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m -5.18708,1163.9415 34.74614,-9.3102 c 1.621947,-0.4346 3.3489,-1.5041 4.539005,-2.6887 l 6.784478,-6.753 c 1.062933,-1.058 1.596597,-2.5215 1.596597,-3.5885 v -17.1432 l 15.50818,-22.0407 35.52152,-50.5099 7.40834,-25.4662"
@@ -7675,7 +7767,7 @@
          sodipodi:nodetypes="ccssssssc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m -191.48047,1232.2334 c 2.37823,0 7.77328,-0.1345 11.12241,-0.7905 3.18773,-0.6245 -4.81284,0.8995 11.21034,-2.1528 l 77.215265,-14.5072 9.694241,-2.3529 h 0.0183 c 114.330056,-30.6346 57.165028,-15.3173 81.55541294,-21.8527 l 0.85000345,-0.2278 9.44545331,-30.1792"
+         d="m -191.48047,1232.2334 c 2.37823,0 7.77328,-0.1345 11.12241,-0.7905 3.18773,-0.6245 -4.81284,0.8995 11.21034,-2.1528 l 77.215265,-14.5072 9.694241,-2.3529 0.0183,-0 c 114.330056,-30.6346 57.165028,-15.3173 81.55541294,-21.8527 l 0.85000345,-0.2278 9.44545331,-30.1792"
          id="path39327"
          sodipodi:nodetypes="cccccsc"
          inkscape:path-effect="#path-effect41048"
@@ -7703,6 +7795,12 @@
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:3.77952;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 1681.7942,5711.0046 31.1721,67.9786 96.5144,-45.3526 24.9186,17.9051"
          transform="matrix(0.26458333,0,0,0.26458333,-570,-449.99997)" />
+      <path
+         id="path1210849"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m -38.659048,992.72494 28.412122,7.61296 17.8984804,45.8148 3.9135576,10.0047 11.867541,30.3802 -10.097426,14.0618 10.612755,39.6069 c 2.305252,8.6032 5.125149,13.2019 7.905009,16.9696 l 21.135483,28.6463 c 2.050628,2.7794 4.880402,5.0194 8.108073,5.5888 5.274504,0.9305 8.610626,2.6019 10.348951,3.9565 3.778322,2.9445 6.487895,8.0882 8.23618,12.4825 2.291113,5.7587 4.461481,10.7911 7.187324,15.348 2.330057,3.8952 4.395882,3.1165 8.2312,3.6778 3.835317,0.5612 5.979918,3.3462 11.786588,8.8866 4.45354,4.2493 12.72767,6.3831 17.67988,7.4836 5.05139,1.1225 11.59949,1.029 16.83798,0.5613 5.23848,-0.4678 10.00924,0.8419 15.99608,3.3675 5.98683,2.5257 7.3897,3.0853 11.88027,2.0582 l 15.468,-3.538 c 6.49671,-1.486 7.02004,-9.0877 13.06288,-10.868 l 33.02115,-9.7286 c 5.2827,-1.5564 17.48595,-0.3309 23.16697,-0.8984 l 10.27381,-1.0262 c 5.80986,-0.5803 11.39023,-3.0837 15.65086,-5.6513 l 44.49454,-26.814 c 5.22808,-3.1506 10.28437,-5.7926 12.83679,-10.2135 l 14.89898,-25.8056 v -15.7342 c 0,-3.8365 1.69166,-9.1933 5.47416,-11.3771 l 46.46978,-26.8293 c 4.97326,-2.8713 8.56355,-7.0374 10.01876,-10.3446 1.45521,-3.3073 5.55625,-8.599 8.59896,-10.7157"
+         sodipodi:nodetypes="ccccccssssssssssssssssssssscssssc"
+         transform="translate(-2.2916668e-6)" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -7815,9 +7913,9 @@
        sodipodi:nodetypes="cssssssc" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ff0066;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 67.03564,1023.1721 12.50844,7.2218 c 5.01964,2.898 9.75636,6.3998 11.34666,12.0124 1.59026,5.6127 5.33198,19.083 7.0158,24.7893 1.6838,5.7062 3.55468,9.8221 9.35444,17.1186 5.79972,7.2964 18.42824,23.2925 22.5442,28.4375 4.11592,5.1449 7.95126,8.6996 16.4638,13.2833 8.5125,4.5836 18.8024,5.9868 33.20822,8.7931 14.40582,2.8064 23.199,2.4322 31.2438,12.722 8.04482,10.2899 12.53496,34.9856 13.8446,42.6563 1.30958,7.6706 7.8577,18.8959 13.84452,22.4506"
+       d="m 67.03564,1023.1721 12.50844,7.2218 c 5.01964,2.898 9.75636,6.3998 11.34666,12.0124 1.59026,5.6127 5.33198,19.083 7.0158,24.7893 1.6838,5.7062 3.55468,9.8221 9.35444,17.1186 5.79972,7.2964 18.42824,23.2925 22.5442,28.4375 4.11592,5.1449 7.95126,8.6996 16.4638,13.2833 8.5125,4.5836 18.8024,5.9868 33.20822,8.7931 14.40582,2.8064 23.199,2.4322 31.2438,12.722 8.04482,10.2899 12.53496,34.9856 13.8446,42.6563 1.30958,7.6706 8.24882,18.3074 13.84452,22.4506 L 254,1224.2"
        id="path150603-9"
-       sodipodi:nodetypes="csssssssssc" />
+       sodipodi:nodetypes="cssssssssssc" />
     <path
        id="path154002-3"
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ff0066;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -7838,15 +7936,15 @@
        id="path148179"
        sodipodi:nodetypes="cssssssc" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffaacc;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 67.03564,1023.1721 12.50844,7.2218 c 5.01964,2.898 9.75636,6.3998 11.34666,12.0124 1.59026,5.6127 5.33198,19.083 7.0158,24.7893 1.6838,5.7062 3.55468,9.8221 9.35444,17.1186 5.79972,7.2964 18.42824,23.2925 22.5442,28.4375 4.11592,5.1449 7.95126,8.6996 16.4638,13.2833 8.5125,4.5836 18.8024,5.9868 33.20822,8.7931 14.40582,2.8064 23.199,2.4322 31.2438,12.722 8.04482,10.2899 12.53496,34.9856 13.8446,42.6563 1.30958,7.6706 7.8577,18.8959 13.84452,22.4506"
-       id="path150603"
-       sodipodi:nodetypes="csssssssssc" />
-    <path
        id="path154002"
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffaacc;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        d="m 92.480992,834.92495 -28.592515,49.11582 -16.388826,28.38628 c -3.180489,5.50877 -4.877866,12.088 -4.877852,18.44898 l 5.2e-5,24.15991 -13.657474,21.86596 -24.7892351,39.6394 -4.95786824,7.9279"
        sodipodi:nodetypes="ccsscccc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffaacc;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 67.03564,1023.1721 12.50844,7.2218 c 5.01964,2.898 9.75636,6.3998 11.34666,12.0124 1.59026,5.6127 5.33198,19.083 7.0158,24.7893 1.6838,5.7062 3.55468,9.8221 9.35444,17.1186 5.79972,7.2964 18.42824,23.2925 22.5442,28.4375 4.11592,5.1449 7.95126,8.6996 16.4638,13.2833 8.5125,4.5836 18.8024,5.9868 33.20822,8.7931 14.40582,2.8064 23.199,2.4322 31.2438,12.722 8.04482,10.2899 12.53496,34.9856 13.8446,42.6563 1.30958,7.6706 8.24882,18.3074 13.84452,22.4506 L 254,1224.2"
+       id="path1210687"
+       sodipodi:nodetypes="cssssssssssc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7981,22 +8079,6 @@
          d="M 600.99998,1649 H 609"
          id="path519717" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="659.91748"
-       y="1593.2947"
-       id="text519725"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264582"
-         x="659.91748"
-         y="1593.2947"
-         id="tspan519721">渟河車廠</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264582"
-         x="659.91748"
-         y="1597.0447"
-         id="tspan519723">DQ-Şiaşiáŋ/M110</tspan></text>
     <g
        id="g540621"
        style="stroke:#000000"
@@ -8034,7 +8116,7 @@
     <g
        id="g28924"
        style="stroke:#000000"
-       transform="rotate(165,589.63229,1651.2453)">
+       transform="rotate(165,589.51176,1649.9923)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 599.99998,1650 2.00001,-2 H 608 l 1.99999,2 v 0"
@@ -8046,24 +8128,26 @@
     </g>
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 566.92926,1655.8526 c 0.41904,1.5638 1.94741,2.2433 3.35163,1.867 1.40422,-0.3763 9.65928,-2.5882 9.65928,-2.5882 l 0.97013,-0.2387"
+       d="m 566.36799,1653.4204 c 0.41904,1.5638 1.94741,2.2433 3.35163,1.867 1.40422,-0.3763 9.65928,-2.5882 9.65928,-2.5882 l 0.97013,-0.2387"
        id="path28968" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="592.84558"
-       y="1655.604"
+       style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="570.34937"
+       y="1660.5873"
        id="text39162"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264582"
-         x="592.84558"
-         y="1655.604"
-         id="tspan39158">浦陰車廠</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#808080;stroke-width:0.264582"
+         x="570.34937"
+         y="1660.5873"
+         id="tspan483028"><tspan
+   id="tspan633276"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#808080;stroke-width:0.264582">浦陰車廠</tspan>/T665</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264582"
-         x="592.84558"
-         y="1659.354"
-         id="tspan39160">FI-Şiaşiáŋ/T665</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#808080;stroke-width:0.264582"
+         x="570.34937"
+         y="1664.3373"
+         id="tspan633046">FI-Şiaşiáŋ</tspan></text>
     <g
        id="g51734"
        style="stroke:#000000"
@@ -8092,7 +8176,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264582"
          x="685.50519"
          y="1322.5287"
-         id="tspan51738">SÑJ-Şiaşiáŋ/T552</tspan></text>
+         id="tspan51738">SÑJ-Şiaşiáŋ/T585</tspan></text>
     <g
        id="g86426"
        style="stroke:#0000ff"
@@ -8501,21 +8585,6 @@
        inkscape:original-d="M 1.72288,712.19485 -9.4464,657.41519" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       inkscape:path-effect="#path-effect842811"
-       inkscape:original-d="m 1317.9674,238.67737 13.4493,-6.19578 20.6643,-16.58656"
-       d="m 1317.9674,238.67737 13.4493,-6.19578 20.6643,-16.58656 m -31.3888,21.5271 0.8368,1.81652 m 2.7962,-3.49017 0.8368,1.81651 m 2.7962,-3.49016 0.8369,1.81651 m 2.7715,-3.53005 1.2519,1.5597 m 1.8675,-4.06355 1.2519,1.5597 m 1.8675,-4.06355 1.2519,1.5597 m 1.8675,-4.06355 1.2519,1.5597 m 1.8675,-4.06355 1.252,1.5597 m 1.8674,-4.06355 1.252,1.5597 m 1.8675,-4.06355 1.2519,1.5597"
-       id="path848342"
-       transform="translate(-2.2916668e-6)"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       inkscape:path-effect="#path-effect842811"
-       inkscape:original-d="m 1317.9674,238.67737 -6.5484,-14.22136 -9.1291,-20.58108"
-       d="m 1317.9674,238.67737 -6.5484,-14.22136 -9.1291,-20.58108 m 14.4227,32.07745 1.8167,-0.83651 m -3.4897,-2.79682 1.8167,-0.8365 m -3.4897,-2.79682 1.8167,-0.8365 m -3.4897,-2.79682 1.8167,-0.83651 m -3.447,-2.81614 1.8283,-0.81093 m -3.4501,-2.8455 1.8282,-0.81094 m -3.4501,-2.8455 1.8282,-0.81093 m -3.4501,-2.8455 1.8282,-0.81094 m -3.4501,-2.8455 1.8283,-0.81093"
-       id="path820079"
-       transform="translate(-2.2916668e-6)" />
-    <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 1112.0885,94.380231 1096.875,82.738565 m 14.0223,10.730105 0.9115,-1.191242 m -2.4999,-0.02417 0.9116,-1.191241 m -2.4999,-0.02417 0.9116,-1.191241 m -2.4999,-0.02417 0.9116,-1.191241 m -2.4999,-0.02417 0.9115,-1.191241 m -2.4999,-0.02417 0.9116,-1.191242 m -2.4999,-0.02417 0.9116,-1.191242 m -2.4999,-0.02417 0.9116,-1.191242 m -2.4999,-0.02417 0.9115,-1.191242"
        id="path904949"
        inkscape:path-effect="#path-effect905012"
@@ -8524,13 +8593,39 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer174"
+     id="layer243"
      inkscape:label="BRT"
-     sodipodi:insensitive="true" />
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer245"
+       inkscape:label="晴海BRT"
+       sodipodi:insensitive="true">
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 735.35198,1712.7967 -11.87421,2.6459 -23.95326,5.3706 -20.60122,-2e-4 -10.45549,2e-4 -29.4791,-3.6868 1.4158,-10.1294"
+         id="path901255"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 684.15212,1720.813 v -7.2091 l -10.38342,-1.2878 v 8.4969"
+         id="path901300"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 711.99374,1710.2006 1.66764,7.4604"
+         id="path911472" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer242"
+       inkscape:label="禾州BRT"
+       transform="translate(570,449.99997)" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer13"
-     inkscape:label="輕鐵"
+     inkscape:label="LRT"
      transform="translate(570,449.99997)"
      sodipodi:insensitive="true">
     <g
@@ -8814,9 +8909,25 @@
   <g
      inkscape:groupmode="layer"
      id="layer15"
-     inkscape:label="新交通"
+     inkscape:label="MRT"
      transform="translate(570,449.99997)"
      sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer241"
+       inkscape:label="晴海單軌"
+       sodipodi:insensitive="true">
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 103.89372,1239.6565 2.84427,2.5797 c 1.16457,1.0562 0.97641,2.1746 0.39687,3.3073 l -1.45521,2.8442 c -0.5262,1.0285 -0.10371,2.693 1.39422,3.5579 1.49794,0.8648 1.84942,2.9934 1.84942,4.9578 v 14.0033 11.8107 c 0,1.786 1.05586,5.4901 1.51888,6.8792"
+         id="path881213"
+         sodipodi:nodetypes="cssssscsc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:0.64;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 103.89372,1239.6565 2.84427,2.5797 c 1.16457,1.0562 0.97641,2.1746 0.39687,3.3073 l -1.45521,2.8442 c -0.5262,1.0285 -0.10371,2.693 1.39422,3.5579 1.49794,0.8648 1.84942,2.9934 1.84942,4.9578 v 14.0033 11.8107 c 0,1.786 1.05586,5.4901 1.51888,6.8792"
+         id="path881555"
+         sodipodi:nodetypes="cssssscsc" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer164"
@@ -8832,6 +8943,34 @@
        id="layer166"
        inkscape:label="湖陰空軌"
        sodipodi:insensitive="true" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer244"
+       inkscape:label="東萊新交通"
+       sodipodi:insensitive="true">
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 1317.9674,238.67737 13.4493,-6.19578 20.6643,-16.58656"
+         id="path848342"
+         transform="translate(-2.2916668e-6)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 1302.2899,203.87493 9.1291,20.58108 6.5484,14.22136 8.3013,17.95858 -7.4083,3.43958 4.1672,8.99584"
+         id="path841518"
+         transform="translate(-2.2916668e-6)" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3.44;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 1317.9674,238.67737 13.4493,-6.19578 20.6643,-16.58656"
+         id="path841345"
+         transform="translate(-2.2916668e-6)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="m 1302.2899,203.87493 9.1291,20.58108 6.5484,14.22136 8.3013,17.95858 -7.4083,3.43958 4.1672,8.99584"
+         id="path841347"
+         transform="translate(-2.2916668e-6)" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer161"
@@ -8858,7 +8997,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer95"
-       inkscape:label="禾州單軌"
+       inkscape:label="禾州新交通"
        sodipodi:insensitive="true">
       <path
          style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -8907,7 +9046,7 @@
          d="m -303.96159,780.38864 3.24127,9.03546"
          id="path132559" />
       <rect
-         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3.2;stroke-opacity:1;stop-color:#000000"
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3.28;stroke-opacity:1;stop-color:#000000"
          id="rect119525-7"
          width="20.486208"
          height="8.0448132"
@@ -8915,15 +9054,15 @@
          y="623.93585"
          transform="rotate(-19.727978)" />
       <path
-         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3.2;stroke-opacity:1;stop-color:#000000"
-         d="m -325.96094,779.73125 h -10.18047 v 18.77137 h 10.05417 7.47448"
-         id="path126462-3" />
-      <path
-         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3.2;stroke-opacity:1;stop-color:#000000"
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:0.48;stroke-opacity:1;stop-color:#000000"
          d="m -326.08724,798.50262 v -11.19859 h 2.84187"
          id="path125815-9" />
       <path
          style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3.2;stroke-opacity:1;stop-color:#000000"
+         d="m -325.96094,779.73125 h -10.18047 v 18.77137 h 10.05417 7.47448"
+         id="path126462-3" />
+      <path
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:3;stroke-opacity:1;stop-color:#000000"
          d="m -303.96159,780.38864 3.24127,9.03546"
          id="path132559-0" />
     </g>
@@ -9013,7 +9152,7 @@
          inkscape:original-d="m 289.96194,562.80393 h 10.23602 v 10.37288" />
       <path
          style="fill:none;stroke:#808080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 299.94796,552.37395 v 0.42998 c 0,5.38352 -4.36648,9.75 -9.75,9.75 h -0.23602"
+         d="m 299.94796,552.37395 0,0.42998 c 0,5.38352 -4.36648,9.75 -9.75,9.75 h -0.23602"
          id="path148157"
          inkscape:path-effect="#path-effect148280;#path-effect148386"
          inkscape:original-d="m 300.19796,552.37395 v 10.42998 h -10.23602" />
@@ -13187,6 +13326,46 @@
            y="747.22223"
            id="tspan138901">くもごと</tspan></text>
     </g>
+    <g
+       id="g376951"
+       transform="translate(65.943161,909.88968)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.50001px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="975.03705"
+         y="751.72223"
+         id="text376941"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50001px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="975.03705"
+           y="751.72223"
+           id="tspan376939">千林峠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="976.72455"
+         y="755.09723"
+         id="text376945"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
+           x="976.72455"
+           y="755.09723"
+           id="tspan376943">Senlǝm Tók</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="972.78705"
+         y="747.22223"
+         id="text376949"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="972.78705"
+           y="747.22223"
+           id="tspan376947">ちばやし</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13394,6 +13573,35 @@
      inkscape:groupmode="layer"
      id="layer209"
      inkscape:label="鐵道名稱">
+    <g
+       inkscape:groupmode="layer"
+       id="layer232"
+       inkscape:label="新交通線名">
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+         x="-270.84451"
+         y="1018.2004"
+         id="text308029"
+         transform="translate(570,449.99997)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+           x="-270.84451"
+           y="1018.2004"
+           id="tspan308027">平沼單軌</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+         x="-173.8206"
+         y="1238.1455"
+         id="text327513"
+         transform="rotate(-19.736901)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+           x="-173.8206"
+           y="1238.1455"
+           id="tspan327511">豐浦空軌</tspan></text>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer120"
@@ -13604,8 +13812,8 @@
            y="929.28625"
            style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
            id="tspan57752"><tspan
-   id="tspan57268"
-   style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583">浦州地鐵</tspan></tspan><tspan
+             id="tspan57268"
+             style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583">浦州地鐵</tspan></tspan><tspan
            sodipodi:role="line"
            x="1359.7341"
            y="933.78625"
@@ -13623,8 +13831,8 @@
            y="865.22772"
            style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
            id="tspan69342"><tspan
-   id="tspan69340"
-   style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583">浦州地鐵</tspan></tspan><tspan
+             id="tspan69340"
+             style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583">浦州地鐵</tspan></tspan><tspan
            sodipodi:role="line"
            x="1351.2219"
            y="869.72772"
@@ -13757,6 +13965,74 @@
            x="460.7301"
            y="1355.1649"
            id="tspan257646">福原線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         id="text734636"
+         y="1190.8843"
+         x="1201.7944"
+         transform="rotate(20.262774)"><tspan
+           sodipodi:role="line"
+           x="1201.7944"
+           y="1190.8843"
+           style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan734632">青空急行</tspan><tspan
+           sodipodi:role="line"
+           x="1201.7944"
+           y="1196.1108"
+           style="font-size:4.5px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan734634">峪口線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         id="text747836"
+         y="899.49231"
+         x="1426.8696"
+         transform="rotate(29.203832)"><tspan
+           sodipodi:role="line"
+           x="1426.8696"
+           y="899.49231"
+           style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan747832">青空急行</tspan><tspan
+           sodipodi:role="line"
+           x="1426.8696"
+           y="904.71887"
+           style="font-size:4.5px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan747834">浦鹽線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         id="text748184"
+         y="572.51764"
+         x="1520.9874"
+         transform="rotate(41.928053)"><tspan
+           sodipodi:role="line"
+           x="1520.9874"
+           y="572.51764"
+           style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan748180">青空急行</tspan><tspan
+           sodipodi:role="line"
+           x="1520.9874"
+           y="576.26764"
+           style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+           id="tspan748182">潭面線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:0;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
+         id="text758642"
+         y="1229.8549"
+         x="313.90747"
+         transform="rotate(-12.054312)"><tspan
+           style="font-size:3px;line-height:1;text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
+           sodipodi:role="line"
+           id="tspan758638"
+           x="1229.8549"
+           y="313.90747">西原電鐵</tspan><tspan
+           sodipodi:role="line"
+           id="tspan758640"
+           x="1229.8549"
+           y="310.53247"
+           style="font-size:3px;line-height:1.25;text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583">鋼索線</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13889,8 +14165,8 @@
          xml:space="preserve"
          style="font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
          id="text184165"
-         y="1691.4225"
-         x="445.28146"
+         y="1689.2643"
+         x="445.35895"
          transform="rotate(-7.0254898)"><tspan
            id="tspan184163"
            style="font-size:4.5px;text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583">臨海本線</tspan></text>
@@ -13910,13 +14186,13 @@
          xml:space="preserve"
          style="font-size:3px;line-height:0;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          id="text277342"
-         y="1584.5687"
-         x="-255.10655"
+         y="1584.3975"
+         x="-262.64639"
          transform="rotate(-24.686121)"><tspan
            sodipodi:role="line"
            id="tspan277340"
-           x="-255.10655"
-           y="1584.5687"
+           x="-262.64639"
+           y="1584.3975"
            style="font-size:3px;line-height:1.25;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583"><tspan
    id="tspan277338"
    style="font-size:3px;line-height:1;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583">浦州港</tspan>線</tspan></text>
@@ -13932,6 +14208,54 @@
            y="1715.6639"
            style="font-size:4.5px;line-height:1.25;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.264583"
            id="tspan288452">潮戸港線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:0;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="text681246"
+         y="1570.37"
+         x="-262.47873"
+         transform="rotate(-24.686121)"><tspan
+           sodipodi:role="line"
+           id="tspan681244"
+           x="-262.47873"
+           y="1570.37"
+           style="font-size:3px;line-height:1.25;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583">臨海本線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="text691335"
+         y="1241.6128"
+         x="884.04205"
+         transform="rotate(16.593267)"><tspan
+           sodipodi:role="line"
+           x="884.04205"
+           y="1241.6128"
+           style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="tspan691333">清水線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.5;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="text692224"
+         y="925.73035"
+         x="1359.7404"
+         transform="rotate(35.262773)"><tspan
+           sodipodi:role="line"
+           x="1359.7404"
+           y="925.73035"
+           style="font-size:3px;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="tspan692222">臨海本線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.5;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="text692757"
+         y="1636.963"
+         x="189.85397"
+         transform="rotate(-13.406733)"><tspan
+           sodipodi:role="line"
+           x="1636.963"
+           y="189.85397"
+           style="font-size:3px;text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="tspan692755">青灣線</tspan></text>
     </g>
   </g>
   <g
@@ -15758,7 +16082,7 @@
                id="tspan623829"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
                x="869.64203"
-               y="1118.8306">ZM</tspan></text>
+               y="1118.8306">ZA</tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
@@ -16166,7 +16490,7 @@
                  id="tspan563358"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.09092px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
                  x="336.83798"
-                 y="1395.3744">ZM</tspan></text>
+                 y="1395.3744">ZA</tspan></text>
             <text
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.09092px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
@@ -17776,7 +18100,7 @@
       </g>
       <g
          id="g438262"
-         transform="matrix(0.74184221,0,0,0.73764503,226.45658,457.91069)"
+         transform="matrix(0.74184221,0,0,0.73764503,243.89479,442.4981)"
          style="display:inline;stroke-width:0.358234;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
            style="fill:#ffffff;stroke:#000000;stroke-width:0.358234;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.89999;stop-color:#000000"
@@ -17846,21 +18170,19 @@
         </g>
       </g>
       <g
-         id="g421926"
-         transform="matrix(0.74000002,0,0,0.72672168,340.40172,587.71115)"
-         style="display:inline;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none">
+         id="g588655">
         <rect
-           style="fill:#ffffff;stroke:#000000;stroke-width:0.361365;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
            id="rect421912"
-           width="12.5"
-           height="5.3697915"
-           x="336.20496"
-           y="1400.6003"
-           rx="1.3513521"
-           ry="1.3760434" />
+           width="11.368"
+           height="3.902344"
+           x="587.83417"
+           y="1605.5591"
+           rx="1.0000006"
+           ry="1.0000006" />
         <g
            id="g421922"
-           transform="translate(-0.26850195,9.9859218)"
+           transform="matrix(0.74000002,0,0,0.72672168,340.20303,594.96814)"
            style="stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none">
           <text
              xml:space="preserve"
@@ -17888,8 +18210,8 @@
                y="1395.3744">99</tspan></text>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.361365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 343.40125,1405.2697 h 3.97563"
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 594.51865,1608.9511 h 2.94197"
            id="path421924" />
       </g>
       <g
@@ -18722,9 +19044,9 @@
         <rect
            style="fill:#ffffff;stroke:#000000;stroke-width:0.361365;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
            id="rect589225"
-           width="12.5"
+           width="15.358905"
            height="5.3697915"
-           x="336.20496"
+           x="334.5636"
            y="1400.6003"
            rx="1.3513521"
            ry="1.3760434" />
@@ -18833,50 +19155,43 @@
         </g>
       </g>
       <g
-         id="g635673"
-         transform="matrix(0.74000002,0,0,0.72672168,482.88398,526.86587)"
-         style="display:inline;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none">
+         id="g588639">
         <rect
-           style="fill:#ffffff;stroke:#000000;stroke-width:0.361365;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
            id="rect635659"
-           width="12.5"
-           height="5.3697915"
-           x="336.20496"
-           y="1400.6003"
-           rx="1.3513521"
-           ry="1.3760434" />
-        <g
-           id="g635669"
-           transform="translate(-0.26850195,9.9859218)"
-           style="stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
-             x="336.83798"
-             y="1395.3744"
-             id="text635663"
-             transform="rotate(-0.103787)"><tspan
-               sodipodi:role="line"
-               id="tspan635661"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
-               x="336.83798"
-               y="1395.3744">FU</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
-             x="343.18802"
-             y="1395.3744"
-             id="text635667"
-             transform="rotate(-0.103787)"><tspan
-               sodipodi:role="line"
-               id="tspan635665"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
-               x="343.18802"
-               y="1395.3744">97</tspan></text>
-        </g>
+           width="11.368"
+           height="3.902344"
+           x="730.84503"
+           y="1544.7125"
+           rx="1.0000006"
+           ry="1.0000006" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93332px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="724.74194"
+           y="1563.1149"
+           id="text635663"
+           transform="matrix(1.0090928,-0.0017951,0.00182789,0.99098591,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan635661"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93332px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="724.74194"
+             y="1563.1149">FU</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93332px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="729.39862"
+           y="1563.1149"
+           id="text635667"
+           transform="matrix(1.0090928,-0.0017951,0.00182789,0.99098591,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan635665"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93332px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="729.39862"
+             y="1563.1149">97</tspan></text>
         <path
-           style="fill:none;stroke:#000000;stroke-width:0.361365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 343.40125,1405.2697 h 3.97563"
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 737.41007,1548.1058 h 2.94197"
            id="path635671" />
       </g>
       <g
@@ -19477,7 +19792,7 @@
       </g>
       <g
          id="g256040"
-         transform="translate(-7.0233662,-3.96875)">
+         transform="translate(-6.5964962,-2.8957279)">
         <rect
            style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.89999;stop-color:#000000"
            id="rect254320"
@@ -20967,7 +21282,7 @@
       </g>
       <g
          id="g41578"
-         transform="translate(-51.305939,16.808633)">
+         transform="translate(-51.305939,16.798234)">
         <rect
            style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
            id="rect41566"
@@ -21005,6 +21320,142 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#800080;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
                x="343.18802"
                y="1395.3744">5</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g588671"
+         transform="translate(72.590402,25.444058)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
+           id="rect588657"
+           width="11.368"
+           height="3.902344"
+           x="587.83417"
+           y="1605.5591"
+           rx="1.0000006"
+           ry="1.0000006" />
+        <g
+           id="g588667"
+           transform="matrix(0.74000002,0,0,0.72672168,340.20303,594.96814)"
+           style="stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+             x="336.83798"
+             y="1395.3744"
+             id="text588661"
+             transform="rotate(-0.103787)"><tspan
+               sodipodi:role="line"
+               id="tspan588659"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+               x="336.83798"
+               y="1395.3744">TU</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+             x="343.18802"
+             y="1395.3744"
+             id="text588665"
+             transform="rotate(-0.103787)"><tspan
+               sodipodi:role="line"
+               id="tspan588663"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+               x="343.18802"
+               y="1395.3744">81</tspan></text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 594.51865,1608.9511 h 2.94197"
+           id="path588669" />
+      </g>
+      <g
+         id="g599117"
+         transform="translate(51.108377,-22.153087)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
+           id="rect599103"
+           width="11.368"
+           height="5.4293199"
+           x="587.83417"
+           y="1604.032"
+           rx="1.0000006"
+           ry="1.0000006" />
+        <g
+           id="g599113"
+           transform="matrix(0.74000002,0,0,0.72672168,340.27063,594.96953)"
+           style="stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+             x="336.83798"
+             y="1395.3744"
+             id="text599107"
+             transform="rotate(-0.103787)"><tspan
+               sodipodi:role="line"
+               id="tspan599105"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+               x="336.83798"
+               y="1395.3744">TU</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+             x="343.18802"
+             y="1395.3744"
+             id="text599111"
+             transform="rotate(-0.103787)"><tspan
+               sodipodi:role="line"
+               id="tspan599109"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.361365;stroke-miterlimit:4;stroke-dasharray:none"
+               x="343.18802"
+               y="1395.3744">81</tspan></text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 594.51865,1608.9511 h 2.94197"
+           id="path599115" />
+        <path
+           style="fill:none;stroke:#800080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopM);marker-end:url(#marker195890)"
+           d="m 597.39588,1605.2612 -7.07436,10e-5"
+           id="path599240" />
+      </g>
+      <g
+         id="g636984"
+         transform="translate(187.62232,-53.050549)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.265;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2.89999;stop-color:#000000"
+           id="rect636968"
+           width="14.875"
+           height="4.1265588"
+           x="399.54218"
+           y="1705.5999"
+           rx="1"
+           ry="1" />
+        <g
+           id="g636978">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="399.95145"
+             y="1716.1595"
+             id="text636972"
+             transform="matrix(1.0042282,-4.5383935e-4,4.5768545e-4,0.99578937,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan636970"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+               x="399.95145"
+               y="1716.1595">MS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="406.91324"
+             y="1716.1595"
+             id="text636976"
+             transform="matrix(1.0042282,-4.5383935e-4,4.5768545e-4,0.99578937,0,0)"><tspan
+               sodipodi:role="line"
+               id="tspan636974"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+               x="406.91324"
+               y="1716.1595">76·77</tspan></text>
         </g>
       </g>
     </g>
@@ -21738,7 +22189,7 @@
       </g>
       <g
          id="g184913"
-         transform="translate(2.1166667,-2.1166667)">
+         transform="translate(10.348568,3.3089045)">
         <text
            xml:space="preserve"
            style="font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
@@ -23777,6 +24228,45 @@
              x="666.94592"
              y="1139.3195">23</tspan></text>
       </g>
+      <g
+         id="g779682"
+         transform="translate(378.16248,49.427036)">
+        <rect
+           style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
+           id="rect779670"
+           width="19.244368"
+           height="5.2105217"
+           x="323.70877"
+           y="1645.569"
+           rx="1.0000006"
+           ry="1.0000006" />
+        <g
+           id="g779680"
+           transform="translate(-0.32544804,0.31436729)">
+          <text
+             xml:space="preserve"
+             style="font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
+             x="327.3851"
+             y="1649.311"
+             id="text779674"><tspan
+               sodipodi:role="line"
+               id="tspan779672"
+               style="font-size:4px;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
+               x="327.3851"
+               y="1649.311">IR</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
+             x="336.79001"
+             y="1649.311"
+             id="text779678"><tspan
+               sodipodi:role="line"
+               id="tspan779676"
+               style="font-size:4px;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
+               x="336.79001"
+               y="1649.311">40·45</tspan></text>
+        </g>
+      </g>
     </g>
   </g>
   <g
@@ -24158,6 +24648,49 @@
      inkscape:groupmode="layer"
      id="layer129"
      inkscape:label="乗降場">
+    <g
+       inkscape:groupmode="layer"
+       id="layer246"
+       inkscape:label="乗降場-鹽州">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle1000009"
+         cx="655.41254"
+         cy="1708.9927"
+         r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle1009682"
+         cx="667.4798"
+         cy="1710.4425"
+         r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle1009684"
+         cx="690.07074"
+         cy="1713.2489"
+         r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle1009686"
+         cx="699.89288"
+         cy="1712.7344"
+         r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle1029034"
+         cx="724.63141"
+         cy="1707.575"
+         r="1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer248"
+       inkscape:label="乗降場-硅州" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer247"
+       inkscape:label="乗降場-灘州" />
     <g
        inkscape:groupmode="layer"
        id="layer142"
@@ -25510,6 +26043,30 @@
          cx="124.41963"
          cy="812.78833"
          r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle389083"
+         cx="69.472076"
+         cy="1144.5527"
+         r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle702754"
+         cx="108.92144"
+         cy="1094.2271"
+         r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle702756"
+         cx="118.64487"
+         cy="1090.6552"
+         r="1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle702758"
+         cx="142.98653"
+         cy="1091.1843"
+         r="1" />
     </g>
   </g>
   <g
@@ -25517,6 +26074,245 @@
      id="layer64"
      inkscape:label="驛"
      transform="translate(570,449.99997)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer233"
+       inkscape:label="驛-鹽州">
+      <g
+         inkscape:groupmode="layer"
+         id="layer239"
+         inkscape:label="驛-鹽州-各停">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="83.39473"
+           y="1233.4977"
+           id="text1078256"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264582"
+             x="83.39473"
+             y="1233.4977"
+             id="tspan1078579">とうぎょう</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer240"
+         inkscape:label="驛-鹽州-快速">
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+           x="10.102198"
+           y="1242.5151"
+           id="text657378"><tspan
+             sodipodi:role="line"
+             id="tspan657374"
+             style="font-size:3px;text-align:start;text-anchor:start;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="10.102198"
+             y="1242.5151">はざま</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="10.102198"
+             y="1246.2651"
+             id="tspan657376">M130/P+R</tspan></text>
+        <rect
+           style="fill:#ffffff;stroke:#008000;stroke-width:0.3;stroke-dashoffset:15.4961;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+           id="rect657380"
+           height="2"
+           x="333.38141"
+           y="1202.5925"
+           transform="rotate(15)"
+           width="5" />
+        <rect
+           style="fill:#ffffff;stroke:#008000;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect980422"
+           height="2"
+           x="-210.97618"
+           y="-1239.593"
+           transform="rotate(-172.87)"
+           width="5" />
+        <rect
+           style="fill:#ffffff;stroke:#008000;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect980537"
+           height="2"
+           x="-190.75839"
+           y="-1239.6238"
+           transform="rotate(-172.87)"
+           width="5" />
+        <rect
+           style="fill:#ffffff;stroke:#008000;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect1038710"
+           height="2"
+           x="57.801018"
+           y="-1265.2974"
+           transform="rotate(169.41521)"
+           width="5" />
+        <rect
+           style="fill:#ffffff;stroke:#008000;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect1048406"
+           height="2"
+           x="32.321781"
+           y="-1264.9198"
+           transform="rotate(169.41521)"
+           width="5" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer237"
+         inkscape:label="驛-鹽州-急行">
+        <rect
+           style="fill:#ffffff;stroke:#0000ff;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect429113"
+           height="2"
+           x="1141.8606"
+           y="390.64163"
+           transform="rotate(67.247453,-3.4954733e-6,-1.6056951e-7)"
+           width="5" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#005522;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="81.639023"
+           y="1198.9592"
+           id="text478074"
+           transform="translate(-2.2916668e-6)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#005522;stroke-width:0.264582"
+             x="81.639023"
+             y="1198.9592"
+             id="tspan478072"><tspan
+   id="tspan478068"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#005522;stroke-width:0.264582">千林</tspan>/Senlǝm</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#005522;stroke-width:0.264582"
+             x="81.639023"
+             y="1202.7092"
+             id="tspan481062">M100</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="106.14764"
+           y="1232.8223"
+           id="text512303"
+           transform="translate(-2.2916668e-6)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.264582"
+             x="106.14764"
+             y="1232.8223"
+             id="tspan512299"><tspan
+   id="tspan512297"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.264582">晴海北</tspan>/N</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.264582"
+             x="106.14764"
+             y="1236.5723"
+             id="tspan512301">M110</tspan></text>
+        <g
+           id="g881760"
+           transform="rotate(42.241631,-197.43244,1377.4472)"
+           style="stroke:#0000ff">
+          <rect
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:15.4961;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
+             id="rect881758"
+             width="5"
+             height="1.8"
+             x="-69.849998"
+             y="1071.9501" />
+          <rect
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:15.4961;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
+             id="rect881756"
+             width="5"
+             height="1.8"
+             x="-69.849998"
+             y="1070.15" />
+        </g>
+        <rect
+           style="fill:#ffffff;stroke:#0000ff;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect931190"
+           height="2"
+           x="89.370209"
+           y="-1265.8396"
+           transform="rotate(169.41521)"
+           width="5" />
+        <rect
+           style="fill:#ffffff;stroke:#0000ff;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect931188"
+           height="2"
+           x="-228.4467"
+           y="-1239.635"
+           transform="rotate(-172.87,-1.0484874e-6,1.633887e-6)"
+           width="5" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="70.557747"
+           y="1250.9167"
+           id="text1067766"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264582"
+             x="70.557747"
+             y="1250.9167"
+             id="tspan1067762"><tspan
+               id="tspan1067760"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264582">みら</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264582"
+             x="70.557747"
+             y="1254.6667"
+             id="tspan1067764">M135</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="141.55789"
+           y="1254.0038"
+           id="text1068060"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264582"
+             x="141.55789"
+             y="1254.0038"
+             id="tspan1068056"><tspan
+               id="tspan1068054"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264582">まつばら</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264582"
+             x="141.55789"
+             y="1257.7538"
+             id="tspan1068058">M150</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer238"
+         inkscape:label="驛-鹽州-特急">
+        <rect
+           style="fill:#ffffff;stroke:#ff0000;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect789546"
+           height="2"
+           x="261.70526"
+           y="1237.7616"
+           transform="rotate(7.1065036,-2.6308656e-5,-1.6890242e-5)"
+           width="5" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="114.58039"
+           y="1256.2488"
+           id="text789554"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264582"
+             x="114.58039"
+             y="1256.2488"
+             id="tspan789550"><tspan
+               id="tspan789548"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264582">はるみ</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264582"
+             x="114.58039"
+             y="1259.9988"
+             id="tspan789552">M140</tspan></text>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer249"
+       inkscape:label="驛-硅州" />
     <g
        inkscape:groupmode="layer"
        id="layer126"
@@ -25575,30 +26371,22 @@
          inkscape:groupmode="layer"
          id="layer197"
          inkscape:label="驛-灘州-特急">
-        <rect
-           style="fill:#ffffff;stroke:#ff0000;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
-           id="rect319578"
-           height="2"
-           x="625.46228"
-           y="567.56226"
-           transform="rotate(70.240087,-3.3673935e-6,-6.6644337e-8)"
-           width="5" />
         <text
            xml:space="preserve"
            style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
-           x="-315.75668"
-           y="779.96741"
+           x="-560.76447"
+           y="627.55188"
            id="text319584"
-           transform="translate(-2.2916668e-6)"><tspan
+           transform="rotate(-19.73)"><tspan
              sodipodi:role="line"
              id="tspan319580"
              style="font-size:3px;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
-             x="-315.75668"
-             y="779.96741">とようら</tspan><tspan
+             x="-560.76447"
+             y="627.55188">とようら</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
-             x="-315.75668"
-             y="783.71741"
+             x="-560.76447"
+             y="631.30188"
              id="tspan319582">T100</tspan></text>
         <text
            xml:space="preserve"
@@ -25625,6 +26413,25 @@
            y="204.58186"
            transform="rotate(90.005299,-2.7081888e-6,4.1677254e-7)"
            width="5" />
+        <g
+           id="g1149445"
+           transform="rotate(-109.73,-297.18214,1017.7954)"
+           style="stroke:#ff0000">
+          <rect
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#800080;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:15.4961;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
+             id="rect1149443"
+             width="5"
+             height="1.8"
+             x="-69.849998"
+             y="1070.15" />
+          <rect
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:15.4961;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000;stop-opacity:1"
+             id="rect1149441"
+             width="5"
+             height="1.8"
+             x="-69.849998"
+             y="1071.9501" />
+        </g>
       </g>
       <text
          xml:space="preserve"
@@ -26251,19 +27058,19 @@
         <text
            xml:space="preserve"
            style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
-           x="-565.1936"
-           y="1039.7463"
+           x="-562.8125"
+           y="1039.1768"
            id="text398622"
            transform="rotate(-30)"><tspan
              sodipodi:role="line"
              id="tspan398616"
              style="font-size:3px;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
-             x="-565.1936"
-             y="1039.7463">青洲車廠(高鐵)</tspan><tspan
+             x="-562.8125"
+             y="1039.1768">青洲車廠(高鐵)</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
-             x="-565.1936"
-             y="1043.4963"
+             x="-562.8125"
+             y="1042.9268"
              id="tspan398620">SÇ-Şiaşiáŋ/H230</tspan></text>
         <text
            xml:space="preserve"
@@ -27389,6 +28196,167 @@
              x="110.72878"
              y="1070.4268"
              id="tspan76200">Ñívdr/X575</tspan></text>
+        <rect
+           style="fill:#ffffff;stroke:#800080;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect419542"
+           height="2"
+           x="1161.373"
+           y="83.754761"
+           transform="rotate(82.247453)"
+           width="5" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="648.67773"
+           y="1593.2947"
+           id="text519725"
+           transform="translate(-570,-449.99997)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#800080;stroke-width:0.264582"
+             x="648.67773"
+             y="1593.2947"
+             id="tspan519721">渟河車廠</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#800080;stroke-width:0.264582"
+             x="648.67773"
+             y="1597.0447"
+             id="tspan519723">DQ-Şiaşiáŋ</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#800080;stroke-width:0.264582"
+             x="648.67773"
+             y="1600.7947"
+             id="tspan408685">T542</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="81.05899"
+           y="1161.0217"
+           id="text541970"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#800080;stroke-width:0.264582"
+             x="81.05899"
+             y="1161.0217"
+             id="tspan541964">とどろきざか</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#800080;stroke-width:0.264582"
+             x="81.05899"
+             y="1164.9879"
+             id="tspan541968"><tspan
+   id="tspan548870"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#800080;stroke-width:0.264582">轟坂</tspan>/Hłǝŋfán</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#800080;stroke-width:0.264582"
+             x="81.05899"
+             y="1168.7379"
+             id="tspan559618">T544</tspan></text>
+        <rect
+           style="fill:#ffffff;stroke:#800080;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect702750"
+           height="2"
+           x="-16.977264"
+           y="1093.9097"
+           transform="rotate(-7.5173399)"
+           width="5" />
+        <rect
+           style="fill:#ffffff;stroke:#800080;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect702752"
+           height="2"
+           x="473.38257"
+           y="990.86603"
+           transform="rotate(20.504502)"
+           width="5" />
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+           x="129.5598"
+           y="1095.0103"
+           id="text712376"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+             x="129.5598"
+             y="1095.0103"
+             id="tspan712372">じにん</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+             x="129.5598"
+             y="1098.7603"
+             id="tspan712374">X585</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+           x="102.46842"
+           y="1101.6501"
+           id="text722751"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+             x="102.46842"
+             y="1101.6501"
+             id="tspan722747">はやだい</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+             x="102.46842"
+             y="1105.4001"
+             id="tspan722749">X582</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+           x="100.83039"
+           y="1089.1239"
+           id="text722757"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+             x="100.83039"
+             y="1089.1239"
+             id="tspan722753">早台</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+             x="100.83039"
+             y="1092.8739"
+             id="tspan722755">Cáudai</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-230.28287"
+           y="1265.2258"
+           id="text1098319"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-230.28287"
+             y="1265.2258"
+             id="tspan1098317">まえざき</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-160.74725"
+           y="1270.1359"
+           id="text1108449"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-160.74725"
+             y="1270.1359"
+             id="tspan1108447">はさま</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-97.856873"
+           y="1265.3905"
+           id="text1108453"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-97.856873"
+             y="1265.3905"
+             id="tspan1108451">さくらおか</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="-50.463966"
+           y="1258.5138"
+           id="text1118995"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="-50.463966"
+             y="1258.5138"
+             id="tspan1118993">やなぐち</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -29010,7 +29978,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.264583"
              x="478.09268"
              y="703.19348"
-             id="tspan27740">T545</tspan></text>
+             id="tspan27740">T570</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.264583"
@@ -29057,7 +30025,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.264583"
              x="515.76703"
              y="703.24072"
-             id="tspan43490">T550</tspan></text>
+             id="tspan43490">T580</tspan></text>
         <rect
            style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:15.4961;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000"
            id="rect53441"
@@ -29083,7 +30051,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.264583"
              x="137.60231"
              y="872.74487"
-             id="tspan69122">T555</tspan></text>
+             id="tspan69122">T590</tspan></text>
         <rect
            style="fill:#ffffff;stroke:#008000;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
            id="rect168504"
@@ -31023,7 +31991,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:end;text-anchor:end;fill:#0000ff;stroke-width:0.264583"
              x="-173.20622"
              y="1242.5029"
-             id="tspan345938">F740</tspan></text>
+             id="tspan345938">P+R/F740</tspan></text>
         <rect
            style="font-variation-settings:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:15.4961;stroke-opacity:1;-inkscape-stroke:none;paint-order:normal;stop-color:#000000"
            id="rect403999"
@@ -31201,6 +32169,32 @@
              x="144.94319"
              y="771.1676"
              id="tspan235480">X655</tspan></text>
+        <rect
+           style="fill:#ffffff;stroke:#0000ff;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
+           id="rect429091"
+           height="2"
+           x="1177.8429"
+           y="83.893456"
+           transform="rotate(82.247453,-2.9354641e-6,2.5010396e-7)"
+           width="5" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="77.537987"
+           y="1184.2749"
+           id="text466340"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.264582"
+             x="77.537987"
+             y="1184.2749"
+             id="tspan466336"><tspan
+               id="tspan467900"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.264582">とうぎん</tspan></tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.264582"
+             x="77.537987"
+             y="1188.0249"
+             id="tspan466338">T548</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -31274,27 +32268,21 @@
         <text
            xml:space="preserve"
            style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
-           x="5.0960736"
-           y="1196.524"
-           id="text404320"
-           transform="translate(-2.2916668e-6)"><tspan
-             sodipodi:role="line"
-             id="tspan404316"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
-             x="5.0960736"
-             y="1196.524">P+R</tspan><tspan
+           x="6.6863246"
+           y="1197.8337"
+           id="text404320"><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
-             x="5.0960736"
-             y="1200.4902"
-             id="tspan679657"><tspan
+             x="6.6863246"
+             y="1197.8337"
+             id="tspan719940"><tspan
    id="tspan719942"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583">浦陰口</tspan>/T660</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
-             x="5.0960736"
-             y="1204.4563"
-             id="tspan719940">Fó'im-Xú</tspan></text>
+             x="6.6863246"
+             y="1201.7999"
+             id="tspan629796">Fó'im-Xú/P+R</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.264583"
@@ -33967,59 +34955,6 @@
              cy="808.3291"
              r="0.5" />
         </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="9.3032207"
-           y="1262.2112"
-           id="text624315-5"><tspan
-             sodipodi:role="line"
-             id="tspan624311-7"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="9.3032207"
-             y="1262.2112">鉕釤</tspan><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="9.3032207"
-             y="1265.6996"
-             id="tspan624313-0">Fásram</tspan></text>
-        <g
-           id="g25811"
-           transform="translate(-60.41548,459.38755)">
-          <path
-             style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 129.60537,808.32908 h 1"
-             id="path25805"
-             sodipodi:nodetypes="cc" />
-          <circle
-             style="font-variation-settings:normal;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000;stop-opacity:1"
-             id="circle25807"
-             cx="129.60536"
-             cy="808.3291"
-             r="1.5" />
-          <circle
-             style="font-variation-settings:normal;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000;stop-opacity:1"
-             id="circle25809"
-             cx="129.60536"
-             cy="808.3291"
-             r="0.5" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="68.975777"
-           y="1274.4949"
-           id="text25817"><tspan
-             sodipodi:role="line"
-             id="tspan25813"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="68.975777"
-             y="1274.4949">美良</tspan><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="68.975777"
-             y="1277.8699"
-             id="tspan25815">Mýla</tspan></text>
         <g
            id="g27571"
            transform="translate(90.977092,395.74845)">
@@ -34119,17 +35054,17 @@
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
            x="244.87112"
-           y="1226.2914"
+           y="1246.0028"
            id="text5422"><tspan
              sodipodi:role="line"
              id="tspan5418"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="244.87112"
-             y="1226.2914">泉野</tspan><tspan
+             y="1246.0028">泉野</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="244.87112"
-             y="1229.6664"
+             y="1249.3778"
              id="tspan5420">Zyen'iá</tspan></text>
         <g
            id="g17808"
@@ -34281,7 +35216,7 @@
              id="tspan190446">Ŕlkioŋ</tspan></text>
         <g
            id="g220882"
-           transform="translate(151.7849,320.94701)">
+           transform="translate(157.84924,336.79839)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 175.5134,878.51657 h 1"
@@ -34303,18 +35238,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="327.34808"
-           y="1192.1401"
+           x="333.39996"
+           y="1221.5089"
            id="text220888"><tspan
              sodipodi:role="line"
              id="tspan220884"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="327.34808"
-             y="1192.1401">笹原</tspan><tspan
+             x="333.39996"
+             y="1221.5089">笹原</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="327.34808"
-             y="1195.5151"
+             x="333.39996"
+             y="1224.8839"
              id="tspan220886">Sásŋyan</tspan></text>
         <g
            id="g319766"
@@ -34466,6 +35401,23 @@
              x="227.35422"
              y="1274.4336"
              id="tspan193034">Iókran</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="9.5920391"
+           y="1262.6495"
+           id="text563353-5"
+           transform="translate(-2.2916668e-6)"><tspan
+             sodipodi:role="line"
+             id="tspan563349-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="9.5920391"
+             y="1262.6495">廻間</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="9.5920391"
+             y="1266.0245"
+             id="tspan563351-1">Waikran</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -34490,7 +35442,7 @@
         </g>
         <g
            id="g39996"
-           transform="translate(136.34694,170.31338)"
+           transform="translate(136.34694,170.31333)"
            style="display:inline">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -34508,18 +35460,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="93.122498"
-           y="1239.5441"
+           x="83.436478"
+           y="1238.2333"
            id="text40002"><tspan
              sodipodi:role="line"
              id="tspan39998"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="93.122498"
-             y="1239.5441">峠陽</tspan><tspan
+             x="83.436478"
+             y="1238.2333">峠陽</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="93.122498"
-             y="1242.9191"
+             x="83.436478"
+             y="1241.6083"
              id="tspan40000">Tók'iaŋ</tspan></text>
         <g
            id="g96441"
@@ -34556,7 +35508,7 @@
              id="tspan96445">Daixe</tspan></text>
         <g
            id="g93682"
-           transform="translate(406.00721,113.26986)"
+           transform="translate(406.0072,113.26986)"
            style="display:inline">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -34575,17 +35527,17 @@
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
            x="362.84503"
-           y="1182.6992"
+           y="1182.5121"
            id="text93688"><tspan
              sodipodi:role="line"
              id="tspan93684"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="362.84503"
-             y="1182.6992">赤橋</tspan><tspan
+             y="1182.5121">赤橋</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="362.84503"
-             y="1186.0742"
+             y="1185.8871"
              id="tspan93686">Şékgø</tspan></text>
         <text
            xml:space="preserve"
@@ -34637,6 +35589,40 @@
              x="382.11517"
              y="1123.5867"
              id="tspan377641">Kraŋşiñ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="68.975777"
+           y="1274.4949"
+           id="text25817"
+           transform="translate(-2.2916668e-6)"><tspan
+             sodipodi:role="line"
+             id="tspan25813"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="68.975777"
+             y="1274.4949">美良</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="68.975777"
+             y="1277.8699"
+             id="tspan25815">Mýla</tspan></text>
+        <g
+           id="g861870"
+           transform="translate(112.08521,205.42183)"
+           style="display:inline">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -43.09651,1061.7046 h 1"
+             id="path861866"
+             sodipodi:nodetypes="cc" />
+          <rect
+             style="font-variation-settings:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             id="rect861868"
+             width="3"
+             height="3"
+             x="-44.583073"
+             y="1060.4888" />
+        </g>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -34704,17 +35690,17 @@
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:6.00003px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
            x="198.95494"
-           y="1234.7078"
+           y="1257.0651"
            id="text175596"><tspan
              sodipodi:role="line"
              id="tspan175592"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00003px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="198.95494"
-             y="1234.7078">吉岡</tspan><tspan
+             y="1257.0651">吉岡</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="198.95494"
-             y="1239.2078"
+             y="1261.5651"
              id="tspan175594">Kílkaŋ</tspan></text>
         <g
            id="g311592"
@@ -34784,23 +35770,22 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:6.00003px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="108.90049"
+           x="101.13631"
            y="1279.3107"
-           id="text161202"
-           transform="translate(-2.2916668e-6)"><tspan
+           id="text161202"><tspan
              sodipodi:role="line"
              id="tspan161198"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00003px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="108.90049"
+             x="101.13631"
              y="1279.3107">晴海</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="108.90049"
+             x="101.13631"
              y="1283.8107"
              id="tspan161200">Zeŋhái</tspan></text>
         <g
            id="g180506"
-           transform="translate(425.74533,-11.776627)">
+           transform="translate(425.77095,-11.9395)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -48.137651,1218.4284 h 2"
@@ -34824,17 +35809,17 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:6.00003px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="377.58484"
+           x="377.49268"
            y="1215.1493"
            id="text180512"><tspan
              sodipodi:role="line"
              id="tspan180508"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00003px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="377.58484"
+             x="377.49268"
              y="1215.1493">陀城</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="377.58484"
+             x="377.49268"
              y="1219.6493"
              id="tspan180510">Dajeŋ</tspan></text>
         <g
@@ -43070,7 +44055,7 @@
          inkscape:label="元標-浦州-鄉">
         <g
            id="g563367"
-           transform="translate(26.87177,-3.3072917)">
+           transform="translate(26.87177,-3.3072769)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -187.60729,1268.6416 h 1"
@@ -43085,7 +44070,7 @@
         </g>
         <g
            id="g563363"
-           transform="translate(40.681928,-11.505953)">
+           transform="translate(40.681931,-11.505897)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -138.52708,1272.2135 h 1"
@@ -43098,22 +44083,6 @@
              cy="1272.2136"
              r="1.5" />
         </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="-160.71063"
-           y="1273.1006"
-           id="text563353-5"><tspan
-             sodipodi:role="line"
-             id="tspan563349-1"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-160.71063"
-             y="1273.1006">廻間</tspan><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-160.71063"
-             y="1276.4756"
-             id="tspan563351-1">Waikran</tspan></text>
         <g
            id="g563367-4"
            transform="translate(-208.30002,-412.77569)">
@@ -43445,18 +44414,34 @@
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
            x="-97.862"
-           y="1267.7432"
+           y="1269.759"
            id="text557624-4-4"><tspan
              sodipodi:role="line"
              id="tspan557620-4-2"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="-97.862"
-             y="1267.7432">櫻岡</tspan><tspan
+             y="1269.759">櫻岡</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="-97.862"
-             y="1271.1182"
+             y="1273.134"
              id="tspan557622-1-0">Rǝŋkaŋ</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="-160.75238"
+           y="1274.6781"
+           id="text624315-5"><tspan
+             sodipodi:role="line"
+             id="tspan624311-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="-160.75238"
+             y="1274.6781">鉕釤</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="-160.75238"
+             y="1278.1665"
+             id="tspan624313-0">Fásram</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -43501,7 +44486,8 @@
              y="1177.2915"
              id="tspan281401">Seŋçiu</tspan></text>
         <g
-           id="g557588">
+           id="g557588"
+           transform="translate(0,-4.425348e-5)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -230.1598,1260.2581 h 1.00003"
@@ -43525,18 +44511,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50008px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="-230.16475"
-           y="1267.7583"
+           x="-230.15103"
+           y="1269.7742"
            id="text297337"><tspan
              sodipodi:role="line"
              id="tspan297333"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50008px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-230.16475"
-             y="1267.7583">前崎</tspan><tspan
+             x="-230.15103"
+             y="1269.7742">前崎</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00005px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-230.16475"
-             y="1271.1333"
+             x="-230.15103"
+             y="1273.1492"
              id="tspan297335">Zengi</tspan></text>
         <text
            xml:space="preserve"
@@ -43580,18 +44566,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="-50.32383"
-           y="1261.0862"
+           x="-50.272076"
+           y="1263.1021"
            id="text557624-4"><tspan
              sodipodi:role="line"
              id="tspan557620-4"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-50.32383"
-             y="1261.0862">梁口</tspan><tspan
+             x="-50.272076"
+             y="1263.1021">梁口</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-50.32383"
-             y="1264.4612"
+             x="-50.272076"
+             y="1266.4771"
              id="tspan557622-1">Liaŋxú</tspan></text>
         <g
            id="g557583">
@@ -44823,17 +45809,17 @@
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
            x="129.57736"
-           y="1082.267"
+           y="1081.7378"
            id="text2393-0"><tspan
              sodipodi:role="line"
              id="tspan2389-6"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="129.57736"
-             y="1082.267">次仁</tspan><tspan
+             y="1081.7378">次仁</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="129.57736"
-             y="1085.642"
+             y="1085.1128"
              id="tspan2391-7">Sǝ́ñiñ</tspan></text>
         <g
            id="g9259"
@@ -46761,7 +47747,7 @@
              id="tspan242882">Samdáuqa</tspan></text>
         <g
            id="g256276"
-           transform="translate(-126.96061,177.98968)">
+           transform="translate(-126.53375,179.0625)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -43.09651,1061.7046 h 1"
@@ -46778,18 +47764,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="-170.03638"
-           y="1246.4742"
+           x="-169.60951"
+           y="1247.7456"
            id="text256282"><tspan
              sodipodi:role="line"
              id="tspan256278"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-170.03638"
-             y="1246.4742">南浦</tspan><tspan
+             x="-169.60951"
+             y="1247.7456">南浦</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-170.03638"
-             y="1249.8492"
+             x="-169.60951"
+             y="1251.1206"
              id="tspan256280">Namfó</tspan></text>
         <g
            id="g283011"
@@ -47267,7 +48253,7 @@
              id="tspan453339">Méndrak</tspan></text>
         <g
            id="g95064"
-           transform="translate(449.67234,255.98558)">
+           transform="translate(453.76666,254.80645)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -164.67462,969.3348 h 0.99999"
@@ -47289,18 +48275,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:6.00003px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="284.97522"
-           y="1217.0205"
+           x="289.06955"
+           y="1238.5356"
            id="text95070"><tspan
              sodipodi:role="line"
              id="tspan95066"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00003px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="284.97522"
-             y="1217.0205">豐原</tspan><tspan
+             x="289.06955"
+             y="1238.5356">豐原</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="284.97522"
-             y="1221.5205"
+             x="289.06955"
+             y="1243.0356"
              id="tspan95068">Foŋŋyan</tspan></text>
       </g>
       <g
@@ -47384,7 +48370,8 @@
              y="997.3573"
              id="tspan116236-9-6">Beŋçǿ</tspan></text>
         <g
-           id="g557613">
+           id="g557613"
+           transform="translate(-0.50013097,-0.93017578)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -48.137651,1218.4284 h 2"
@@ -47408,22 +48395,22 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:6.00003px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="-48.160454"
+           x="-48.64949"
            y="1226.9258"
            id="text285574"><tspan
              sodipodi:role="line"
              id="tspan285570"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00003px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-48.160454"
+             x="-48.64949"
              y="1226.9258">浦陰</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-48.160454"
+             x="-48.64949"
              y="1231.4258"
              id="tspan285572">Fó'im</tspan></text>
         <g
            id="g557618"
-           transform="translate(-6.3499999,0.396875)">
+           transform="translate(-6.30947,0.2724)">
           <path
              style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m -130.51011,1234.2097 h 2"
@@ -47447,18 +48434,18 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:6.00003px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="-136.88292"
-           y="1243.104"
+           x="-136.84238"
+           y="1242.9795"
            id="text290200"><tspan
              sodipodi:role="line"
              id="tspan290196"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00003px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-136.88292"
-             y="1243.104">潮戸</tspan><tspan
+             x="-136.84238"
+             y="1242.9795">潮戸</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="-136.88292"
-             y="1247.604"
+             x="-136.84238"
+             y="1247.4795"
              id="tspan290198">Døqó</tspan></text>
         <g
            id="g76615">
@@ -48381,13 +49368,13 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#800000"
+       style="font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="-25.000576"
        y="1042.7819"
        id="text60150"><tspan
          sodipodi:role="line"
          id="tspan60148"
-         style="stroke-width:0.264583;fill:#800000"
+         style="fill:#800000;stroke-width:0.264583"
          x="-25.000576"
          y="1042.7819">12</tspan></text>
     <text
@@ -48788,24 +49775,24 @@
          y="1240.0005">Werk</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2179.9998"
        y="1230"
        id="text90727"><tspan
          sodipodi:role="line"
          id="tspan90725"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808000;stroke-width:0.264583"
          x="2179.9998"
          y="1230">共享單車</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2219.9998"
        y="1230"
        id="text90731"><tspan
          sodipodi:role="line"
          id="tspan90729"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808000;stroke-width:0.264583"
          x="2219.9998"
          y="1230">Velo/Bicycle</tspan></text>
     <text
@@ -49008,24 +49995,24 @@
          y="1180.0002">Qo'iaŋ Rail</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2179.9998"
        y="1210.0002"
        id="text109943"><tspan
          sodipodi:role="line"
          id="tspan109941"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;stroke-width:0.264583"
          x="2179.9998"
          y="1210.0002">路面電車</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2219.9998"
        y="1210.0002"
        id="text109947"><tspan
          sodipodi:role="line"
          id="tspan109945"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.264583"
          x="2219.9998"
          y="1210.0002">Tram</tspan></text>
     <text
@@ -49316,24 +50303,24 @@
          y="1150">Nacht/Night</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2179.9998"
        y="1140"
        id="text148465"><tspan
          sodipodi:role="line"
          id="tspan148463"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;stroke-width:0.264583"
          x="2179.9998"
          y="1140">單軌</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2219.9998"
        y="1140"
        id="text148469"><tspan
          sodipodi:role="line"
          id="tspan148467"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.264583"
          x="2219.9998"
          y="1140">Monorail</tspan></text>
     <text
@@ -49734,24 +50721,24 @@
          y="1080.0005">Gruppe/Group</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2179.9998"
        y="1160"
        id="text222865"><tspan
          sodipodi:role="line"
          id="tspan222863"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808000;stroke-width:0.264583"
          x="2179.9998"
          y="1160">輪渡</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2219.9998"
        y="1160"
        id="text222869"><tspan
          sodipodi:role="line"
          id="tspan222867"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808000;stroke-width:0.264583"
          x="2219.9998"
          y="1160">Ferry</tspan></text>
     <text
@@ -49998,48 +50985,48 @@
          y="1040.0002">InterCity</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2179.9998"
        y="1030.0002"
        id="text222961"><tspan
          sodipodi:role="line"
          id="tspan222959"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808000;stroke-width:0.264583"
          x="2179.9998"
          y="1030.0002">公車</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2219.9998"
        y="1030.0002"
        id="text222965"><tspan
          sodipodi:role="line"
          id="tspan222963"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808000;stroke-width:0.264583"
          x="2219.9998"
          y="1030.0002">Bus</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2179.9998"
        y="1020.0002"
        id="text222969"><tspan
          sodipodi:role="line"
          id="tspan222967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808080;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;stroke-width:0.264583"
          x="2179.9998"
-         y="1020.0002">貨物</tspan></text>
+         y="1020.0002">新交通</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2219.9998"
        y="1020.0002"
        id="text222973"><tspan
          sodipodi:role="line"
          id="tspan222971"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808080;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.264583"
          x="2219.9998"
-         y="1020.0002">Cargo</tspan></text>
+         y="1020.0002">AGT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -50530,68 +51517,68 @@
          y="1005.0006">Category</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
        x="2179.9998"
        y="1070"
        id="text85405"><tspan
          sodipodi:role="line"
          id="tspan85403"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;fill-opacity:1;stroke-width:0.264583"
          x="2179.9998"
          y="1070">纜索軌道</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
        x="2219.9998"
        y="1070"
        id="text85409"><tspan
          sodipodi:role="line"
          id="tspan85407"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;fill-opacity:1;stroke-width:0.264583"
          x="2219.9998"
          y="1070">Funicular</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
        x="2179.9998"
        y="1090"
        id="text3014"><tspan
          sodipodi:role="line"
          id="tspan3012"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;fill-opacity:1;stroke-width:0.264583"
          x="2179.9998"
          y="1090">空軌</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
        x="2219.9998"
        y="1090"
        id="text3018"><tspan
          sodipodi:role="line"
          id="tspan3016"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;fill-opacity:1;stroke-width:0.264583"
          x="2219.9998"
          y="1090">H-Bahn</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2179.9998"
        y="1130"
        id="text4458"><tspan
          sodipodi:role="line"
          id="tspan4456"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;stroke-width:0.264583"
          x="2179.9998"
          y="1130">磁浮</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
        x="2219.9998"
        y="1130"
        id="text4462"><tspan
          sodipodi:role="line"
          id="tspan4460"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.264583"
          x="2219.9998"
          y="1130">Maglev</tspan></text>
     <text
@@ -50616,6 +51603,28 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;stroke-width:0.264583"
          x="2139.9995"
          y="1030.0005">Þançiu Rail</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
+       x="2179.9998"
+       y="1120"
+       id="text819828"><tspan
+         sodipodi:role="line"
+         id="tspan819826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808080;stroke-width:0.264583"
+         x="2179.9998"
+         y="1120">貨物</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
+       x="2219.9998"
+       y="1120"
+       id="text819832"><tspan
+         sodipodi:role="line"
+         id="tspan819830"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808080;stroke-width:0.264583"
+         x="2219.9998"
+         y="1120">Cargo</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -53565,15 +54574,15 @@
        id="path37455" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -510,1030.0001 h 40"
+       d="m -510,1030.0001 h 20"
        id="path46433" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -530,1030.0001 h 20"
        id="path46435" />
     <path
-       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:9;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m -510,1030.0001 h 40"
+       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:8.99998;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       d="m -510,1030.0001 h 20"
        id="path46437" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:1;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -53628,8 +54637,8 @@
        inkscape:path-effect="#path-effect118621"
        inkscape:original-d="m -450,1070.0001 h 20" />
     <path
-       style="fill:none;stroke:#800080;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -490,1070.0001 h 20"
+       style="fill:none;stroke:#800080;stroke-width:0.499998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -530,1070.0001 h 60"
        id="path118623" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.2, 0.4;stroke-dashoffset:0.56;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
@@ -53897,23 +54906,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="-469.88733"
+       x="-489.88699"
        y="1076.0953"
        id="text224139"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-469.88733"
+         x="-489.88699"
          y="1076.0953"
-         id="tspan224137">Light rail/Tram/Guideway bus</tspan></text>
+         id="tspan224137">Light rail / Tram / Guideway bus</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
-       x="-469.88733"
+       x="-489.88699"
        y="1066.0951"
        id="text234944"><tspan
          sodipodi:role="line"
          style="font-size:3px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-469.88733"
+         x="-489.88699"
          y="1066.0951"
          id="tspan234942">輕鐵/路面電車/導軌公車</tspan></text>
     <text
@@ -54770,5 +55779,9 @@
          x="-499.88712"
          y="1131.6698"
          id="tspan46156">P+R</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -490,1030 h 20"
+       id="path337427" />
   </g>
 </svg>
