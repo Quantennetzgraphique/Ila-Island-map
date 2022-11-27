@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="2228.7499"
-     inkscape:cy="4738.9999"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="5359.1621"
+     inkscape:cy="4248.2974"
      inkscape:window-width="1920"
      inkscape:window-height="1000"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2455"
+     inkscape:current-layer="layer122"
      gridtolerance="10000"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -11738,8 +11738,7 @@
      inkscape:groupmode="layer"
      id="layer122"
      inkscape:label="山地名稱"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g1353094"
        transform="translate(37.30625,0.79375001)">
@@ -11859,46 +11858,6 @@
            x="972.78705"
            y="747.22223"
            id="tspan1385447">みちつね</tspan></text>
-    </g>
-    <g
-       id="g1418162"
-       transform="translate(805.59611,373.26499)">
-      <text
-         xml:space="preserve"
-         style="font-size:4.50001px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="975.03705"
-         y="751.72223"
-         id="text1418152"
-         transform="skewX(-26.565051)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50001px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
-           x="975.03705"
-           y="751.72223"
-           id="tspan1418150">秀雄峠</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="976.72455"
-         y="755.09723"
-         id="text1418156"
-         transform="skewX(-26.565051)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
-           x="976.72455"
-           y="755.09723"
-           id="tspan1418154">Siú'ioŋ Tók</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:3px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="972.78705"
-         y="747.22223"
-         id="text1418160"
-         transform="skewX(-26.565051)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
-           x="972.78705"
-           y="747.22223"
-           id="tspan1418158">ひでお</tspan></text>
     </g>
     <g
        id="g1425535"
@@ -12616,7 +12575,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
            x="1847.3983"
            y="665.11908"
-           id="tspan267291">Síññí Kŕ</tspan></text>
+           id="tspan267291">Síñjí Kŕ</tspan></text>
     </g>
     <g
        id="g274576">
@@ -12770,7 +12729,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
            x="1847.3983"
            y="665.11908"
-           id="tspan288166">Aişhám</tspan></text>
+           id="tspan887864">Aişhám</tspan></text>
     </g>
     <g
        id="g313094"
@@ -13676,6 +13635,58 @@
            x="972.78705"
            y="747.22223"
            id="tspan376947">ちばやし</tspan></text>
+    </g>
+    <g
+       id="g898785"
+       transform="translate(-106.18832,463.53996)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.50001px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="1844.1022"
+         y="658.52679"
+         id="text898771"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50001px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="1844.1022"
+           y="658.52679"
+           id="tspan898769">秀雄峠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="1845.7897"
+         y="661.90179"
+         id="text898775"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
+           x="1845.7897"
+           y="661.90179"
+           id="tspan898773">Siú'ioŋ Tók</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="1841.8522"
+         y="654.02679"
+         id="text898779"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="1841.8522"
+           y="654.02679"
+           id="tspan898777">ひでお</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="1847.3983"
+         y="665.11908"
+         id="text898783"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
+           x="1847.3983"
+           y="665.11908"
+           id="tspan898781">Fidé'o Tók</tspan></text>
     </g>
   </g>
   <g
@@ -37499,14 +37510,12 @@
        inkscape:groupmode="layer"
        id="layer75"
        inkscape:label="元標-鹽州"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <g
          inkscape:groupmode="layer"
          id="layer140"
          inkscape:label="元標-鹽州-鄉"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -37580,8 +37589,7 @@
          inkscape:groupmode="layer"
          id="layer76"
          inkscape:label="元標-鹽州-邑"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g624309-1"
            transform="translate(-120.08803,447.1039)">
@@ -37844,17 +37852,17 @@
              id="tspan160302"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="463.41556"
-             y="1136.2598">伊勢山</tspan><tspan
+             y="1136.2598">航村</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="463.41556"
              y="1139.6348"
-             id="tspan160304">Işésran</tspan><tspan
+             id="tspan160304">Xaŋson</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="463.41556"
              y="1143.0098"
-             id="tspan116588">Işé'iama</tspan></text>
+             id="tspan116588">Eáson</tspan></text>
         <g
            id="g190442"
            transform="translate(301.37874,258.6223)">
@@ -38136,8 +38144,7 @@
          inkscape:groupmode="layer"
          id="layer137"
          inkscape:label="元標-鹽州-區"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g562884"
            transform="translate(196.5743,203.73805)"
@@ -38253,17 +38260,17 @@
              id="tspan93684"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="362.84503"
-             y="1182.5121">水西</tspan><tspan
+             y="1182.5121">仙水</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="362.84503"
              y="1185.8871"
-             id="tspan93686">Şýse</tspan><tspan
+             id="tspan93686">Senşý</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="362.84503"
              y="1189.2621"
-             id="tspan93415">Midúñişi</tspan></text>
+             id="tspan93415">Sémmidu</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -38358,8 +38365,7 @@
          inkscape:groupmode="layer"
          id="layer77"
          inkscape:label="元標-鹽州-縣"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g12868"
            transform="translate(250.29767,61.278083)">
@@ -38481,8 +38487,7 @@
          inkscape:groupmode="layer"
          id="layer98"
          inkscape:label="元標-鹽州-市"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g161196"
            transform="translate(157.06095,52.384831)">
@@ -38672,8 +38677,7 @@
          inkscape:groupmode="layer"
          id="layer173"
          inkscape:label="元標-鋁州-鄉"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -38784,8 +38788,7 @@
          inkscape:groupmode="layer"
          id="layer178"
          inkscape:label="元標-鋁州-邑"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g38705"
            transform="translate(340.67033,196.48191)">
@@ -38939,17 +38942,17 @@
              id="tspan182233"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="546.54187"
-             y="1102.0994">仙水</tspan><tspan
+             y="1102.0994">伊勢山</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="546.54187"
              y="1105.4744"
-             id="tspan182235">Senşý</tspan><tspan
+             id="tspan182235">Işésran</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="546.54187"
              y="1108.8494"
-             id="tspan182237">Sémmidu</tspan></text>
+             id="tspan182237">Işé'iama</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -39333,7 +39336,12 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="729.64844"
              y="668.91248"
-             id="tspan434630">Rǝŋcéŋ</tspan></text>
+             id="tspan434630">Rǝŋcéŋ</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="729.64844"
+             y="673.41254"
+             id="tspan874563">Sakúlái</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
