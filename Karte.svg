@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="5359.1621"
-     inkscape:cy="4248.2974"
+     inkscape:zoom="1"
+     inkscape:cx="2855.4999"
+     inkscape:cy="3881.9999"
      inkscape:window-width="1920"
      inkscape:window-height="1000"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer122"
+     inkscape:current-layer="layer89"
      gridtolerance="10000"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -13688,6 +13688,86 @@
            y="665.11908"
            id="tspan898781">Fidé'o Tók</tspan></text>
     </g>
+    <g
+       id="g27606"
+       transform="translate(259.5361,770.1267)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.50001px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="975.03705"
+         y="751.72223"
+         id="text27596"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50001px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="975.03705"
+           y="751.72223"
+           id="tspan27594">隱珠峠</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="976.72455"
+         y="755.09723"
+         id="text27600"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
+           x="976.72455"
+           y="755.09723"
+           id="tspan27598">Iǿnçio Tók</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="972.78705"
+         y="747.22223"
+         id="text27604"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="972.78705"
+           y="747.22223"
+           id="tspan27602">いんじゅ</tspan></text>
+    </g>
+    <g
+       id="g30380"
+       transform="translate(229.90277,814.84128)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.50001px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="975.03705"
+         y="751.72223"
+         id="text30370"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50001px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="975.03705"
+           y="751.72223"
+           id="tspan30368">隱珠山</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="976.72455"
+         y="755.09723"
+         id="text30374"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
+           x="976.72455"
+           y="755.09723"
+           id="tspan30372">Iǿnçio Sran</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="972.78705"
+         y="747.22223"
+         id="text30378"
+         transform="skewX(-26.565051)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
+           x="972.78705"
+           y="747.22223"
+           id="tspan30376">いんじゅ</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13902,8 +13982,7 @@
      inkscape:groupmode="layer"
      id="layer209"
      inkscape:label="鐵道名稱"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer232"
@@ -14366,6 +14445,18 @@
            x="1229.8549"
            y="310.53247"
            style="font-size:3px;line-height:1.25;text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583">鋼索線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+         x="-29.911871"
+         y="1735.6384"
+         id="text12561"
+         transform="rotate(-30)"><tspan
+           sodipodi:role="line"
+           id="tspan12559"
+           style="fill:#000080;stroke-width:0.264583"
+           x="1735.6384"
+           y="-29.911871">隱珠隧道</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -14566,6 +14657,18 @@
            y="189.85397"
            style="font-size:3px;text-align:center;writing-mode:tb-rl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="tspan692755">青灣線</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;writing-mode:tb-rl;text-anchor:middle;display:inline;fill:#000000;stroke-width:0.264583"
+         x="115.32945"
+         y="1771.5852"
+         id="text23221"
+         transform="rotate(-15)"><tspan
+           sodipodi:role="line"
+           id="tspan23219"
+           style="fill:#000000;stroke-width:0.264583"
+           x="1771.5852"
+           y="115.32945">浦陰隧道</tspan></text>
     </g>
   </g>
   <g
@@ -16224,8 +16327,7 @@
      inkscape:groupmode="layer"
      id="layer124"
      inkscape:label="運行系統"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer196"
@@ -25712,19 +25814,8 @@
       </g>
       <g
          id="g272256"
-         transform="matrix(0.72444437,0.19345823,-0.19411428,0.72199593,476.2881,314.7642)"
+         transform="matrix(0.72444437,0.19345823,-0.19411428,0.72199593,472.9205,313.54812)"
          style="stroke-width:1.33559">
-        <text
-           xml:space="preserve"
-           style="font-size:4.00678px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.353375"
-           x="436.25903"
-           y="1478.5752"
-           id="text272238"><tspan
-             sodipodi:role="line"
-             id="tspan272236"
-             style="font-size:4.00678px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.353375"
-             x="436.25903"
-             y="1478.5752">XU</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:4.00678px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.353375"
@@ -25736,17 +25827,6 @@
              style="font-size:4.00678px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.353375"
              x="451.66278"
              y="1478.6115">97</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:4.00678px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke:none;stroke-width:0.353375"
-           x="436.25873"
-           y="1483.6204"
-           id="text272246"><tspan
-             sodipodi:role="line"
-             id="tspan272244"
-             style="font-size:4.00678px;text-align:center;text-anchor:middle;fill:#800080;stroke:none;stroke-width:0.353375"
-             x="436.25873"
-             y="1483.6204">FT</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:4.00678px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke:none;stroke-width:0.353375"
@@ -26791,6 +26871,50 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
              x="560.22479"
              y="1513.9655">114</tspan></text>
+      </g>
+      <g
+         id="g11354"
+         transform="translate(-226.67313,249.80144)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="653.53711"
+           y="1258.3666"
+           id="text11346"
+           transform="matrix(1.0090928,-0.0017951,0.00182789,0.99098589,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan11344"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="653.53711"
+             y="1258.3666"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold'"
+   id="tspan12656">104</tspan>·107</tspan></text>
+        <path
+           style="fill:none;stroke:#800080;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 663.03009,1246.2406 h 4.62576"
+           id="path11352" />
+      </g>
+      <g
+         id="g24988"
+         transform="translate(-232.23902,254.52543)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="656.35577"
+           y="1258.3717"
+           id="text24984"
+           transform="matrix(1.0090928,-0.0017951,0.00182789,0.99098589,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan24982"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+             x="656.35577"
+             y="1258.3717">97</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 662.84967,1246.2406 h 3.53435"
+           id="path24986" />
       </g>
     </g>
   </g>
@@ -28625,14 +28749,12 @@
      id="layer64"
      inkscape:label="驛"
      transform="translate(570,449.99997)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer233"
        inkscape:label="驛-鹽州"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <g
          inkscape:groupmode="layer"
          id="layer239"
@@ -28655,8 +28777,7 @@
          inkscape:groupmode="layer"
          id="layer240"
          inkscape:label="驛-鹽州-快速"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <text
            xml:space="preserve"
            style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:start;text-anchor:start;fill:#005522;fill-opacity:1;stroke-width:0.264583"
@@ -28713,13 +28834,65 @@
            y="-1264.9198"
            transform="rotate(169.41521)"
            width="5" />
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+           x="170.05344"
+           y="1242.2079"
+           id="text11633"><tspan
+             sodipodi:role="line"
+             id="tspan11629"
+             style="font-size:3px;text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="170.05344"
+             y="1242.2079">ろくりづか</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="170.05344"
+             y="1245.9579"
+             id="tspan11631">M155/P+R</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+           x="173.79521"
+           y="1258.7653"
+           id="text13335"><tspan
+             sodipodi:role="line"
+             id="tspan13331"
+             style="font-size:3px;text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="173.79521"
+             y="1258.7653">六里塚</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="173.79521"
+             y="1262.5153"
+             id="tspan13333">Lióklǝ́tióŋ</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="173.79521"
+             y="1266.4814"
+             id="tspan14289">Loklíduka</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+           x="186.4576"
+           y="1237.4453"
+           id="text47143"><tspan
+             sodipodi:role="line"
+             id="tspan47139"
+             style="font-size:3px;text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="186.4576"
+             y="1237.4453">よしおか</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;fill-opacity:1;stroke-width:0.264583"
+             x="186.4576"
+             y="1241.1953"
+             id="tspan47141">M160</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
          id="layer237"
          inkscape:label="驛-鹽州-急行"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <rect
            style="fill:#ffffff;stroke:#0000ff;stroke-width:0.3;stroke-dashoffset:15.4961;paint-order:normal;stop-color:#000000"
            id="rect429113"
@@ -28765,7 +28938,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.264582"
              x="106.14764"
              y="1236.5723"
-             id="tspan512301">M110</tspan></text>
+             id="tspan512301">M110/P+R</tspan></text>
         <g
            id="g881760"
            transform="rotate(42.241631,-197.43244,1377.4472)"
@@ -35547,14 +35720,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="524.86267"
-         y="1477.5858"
+         x="524.6756"
+         y="1476.931"
          id="text231548"><tspan
            sodipodi:role="line"
            id="tspan231546"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
-           x="524.86267"
-           y="1477.5858">⛩</tspan></text>
+           x="524.6756"
+           y="1476.931">⛩</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
@@ -37778,7 +37951,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="272.25549"
              y="1269.9509"
-             id="tspan82031">Watálíkoe</tspan></text>
+             id="tspan82031">Watálíko'ie</tspan></text>
         <g
            id="g133239"
            transform="translate(167.86597,366.66089)">
@@ -38620,8 +38793,7 @@
          inkscape:groupmode="layer"
          id="layer99"
          inkscape:label="元標-鹽州-州"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g28644"
            transform="translate(453.35687,105.17187)">
@@ -38665,7 +38837,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264582"
              x="362.96613"
              y="1146.0659"
-             id="tspan94985">Şi'ósǝ́</tspan></text>
+             id="tspan94985">Şi'ósǝ</tspan></text>
       </g>
     </g>
     <g
@@ -38783,6 +38955,49 @@
              cy="1268.6417"
              r="1.5" />
         </g>
+        <text
+           xml:space="preserve"
+           style="font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="593.98608"
+           y="1189.9294"
+           id="text11889"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+             x="593.98608"
+             y="1189.9294"
+             id="tspan11887">きょうわ</tspan></text>
+        <g
+           id="g11895"
+           transform="translate(781.60511,-83.513642)"
+           style="display:inline">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -187.60729,1268.6416 h 1"
+             id="path11891"
+             sodipodi:nodetypes="cc" />
+          <circle
+             style="font-variation-settings:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             id="circle11893"
+             cx="-187.6073"
+             cy="1268.6417"
+             r="1.5" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="593.98096"
+           y="1194.4717"
+           id="text11901"><tspan
+             sodipodi:role="line"
+             id="tspan11897"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="593.98096"
+             y="1194.4717">協和</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="593.98096"
+             y="1197.8467"
+             id="tspan11899">Qevwa</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -38831,7 +39046,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="516.23352"
              y="1088.8309"
-             id="tspan148448">Ilí'é</tspan></text>
+             id="tspan148448">Ilí'ié</tspan></text>
         <g
            id="g421209"
            transform="translate(395.57138,143.16838)">
@@ -39162,8 +39377,7 @@
          inkscape:groupmode="layer"
          id="layer97"
          inkscape:label="元標-鋁州-州"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g30103"
            transform="translate(705.98249,-39.475044)">
@@ -39207,7 +39421,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264582"
              x="615.58502"
              y="1023.0297"
-             id="tspan150674">Alǝ́mísǝ́</tspan></text>
+             id="tspan150674">Alǝ́mísǝ</tspan></text>
       </g>
     </g>
     <g
@@ -39536,14 +39750,12 @@
        inkscape:groupmode="layer"
        id="layer145"
        inkscape:label="元標-硅州"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <g
          inkscape:groupmode="layer"
          id="layer152"
          inkscape:label="元標-硅州-鄉"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g92449"
            transform="translate(1586.6064,-1092.1677)">
@@ -39658,8 +39870,7 @@
          inkscape:groupmode="layer"
          id="layer153"
          inkscape:label="元標-硅州-邑"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -39809,13 +40020,34 @@
              cy="808.3291"
              r="0.5" />
         </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="1250.205"
+           y="328.9751"
+           id="text24635"
+           transform="translate(-2.2916668e-6)"><tspan
+             sodipodi:role="line"
+             id="tspan24629"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="1250.205"
+             y="328.9751">冪律</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="1250.205"
+             y="332.3501"
+             id="tspan24631">Méklúl</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="1250.205"
+             y="335.72513"
+             id="tspan24633">Mékł</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
          id="layer154"
          inkscape:label="元標-硅州-區"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g21958"
            transform="translate(1279.7211,-960.39559)"
@@ -40186,8 +40418,7 @@
          inkscape:groupmode="layer"
          id="layer151"
          inkscape:label="元標-硅州-縣"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g864066"
            transform="translate(1281.4659,-753.95722)">
@@ -40356,8 +40587,7 @@
          inkscape:groupmode="layer"
          id="layer150"
          inkscape:label="元標-硅州-市"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g270902"
            transform="translate(1254.1376,-1030.4284)">
@@ -40451,8 +40681,7 @@
          inkscape:groupmode="layer"
          id="layer149"
          inkscape:label="元標-硅州-州"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g264924"
            transform="translate(1336.0437,-972.36356)">
@@ -43623,12 +43852,12 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="-251.75543"
              y="368.21994"
-             id="tspan608561">流森</tspan><tspan
+             id="tspan608561">高辻</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="-251.75543"
              y="371.59494"
-             id="tspan608563">Liusǝm</tspan></text>
+             id="tspan608563">Kaujiv</tspan></text>
         <g
            id="g90865"
            transform="translate(-58.85011,-398.4011)">
@@ -43688,6 +43917,43 @@
              x="-451.61145"
              y="350.96869"
              id="tspan48534">Kódon</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
+           x="-200.16168"
+           y="374.56995"
+           id="text34655"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="-200.16168"
+             y="374.56995"
+             id="tspan34651">流林</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
+             x="-200.16168"
+             y="377.94495"
+             id="tspan34653">Liulǝm</tspan></text>
+        <g
+           id="g34663"
+           transform="translate(-7.25636,-392.0511)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -201.20594,765.19989 h 1"
+             id="path34657"
+             sodipodi:nodetypes="cc" />
+          <circle
+             style="font-variation-settings:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             id="circle34659"
+             cx="-201.20596"
+             cy="765.19995"
+             r="1.5" />
+          <circle
+             style="font-variation-settings:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;stop-color:#000000"
+             id="circle34661"
+             cx="-201.20596"
+             cy="765.19995"
+             r="0.5" />
+        </g>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -44656,8 +44922,7 @@
          inkscape:groupmode="layer"
          id="layer87"
          inkscape:label="元標-禾州-鄉"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g745809"
            transform="translate(525.03893,-442.55384)">
@@ -44884,8 +45149,7 @@
          inkscape:groupmode="layer"
          id="layer88"
          inkscape:label="元標-禾州-邑"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g868943"
            transform="translate(-62.545862,-140.38672)">
@@ -45948,8 +46212,7 @@
          inkscape:groupmode="layer"
          id="layer89"
          inkscape:label="元標-禾州-區"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g74311"
            transform="translate(182.44441,-478.96968)"
@@ -46103,19 +46366,19 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="196.30971"
+           x="193.9711"
            y="506.13913"
            id="text249226"><tspan
              sodipodi:role="line"
              id="tspan249222"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="196.30971"
-             y="506.13913">坂城</tspan><tspan
+             x="193.9711"
+             y="506.13913">柳花泊</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="196.30971"
+             x="193.9711"
              y="509.51413"
-             id="tspan249224">Fánjeŋ</tspan></text>
+             id="tspan249224">Liúhłabrak</tspan></text>
         <g
            id="g256721"
            transform="translate(272.71326,-562.18283)"
@@ -46176,12 +46439,12 @@
              id="tspan268457"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="201.99823"
-             y="540.33655">氫電</tspan><tspan
+             y="540.33655">帯月</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="201.99823"
-             y="543.82489"
-             id="tspan268459">Xeŋdén</tspan></text>
+             y="543.71155"
+             id="tspan268459">Táiŋyál</tspan></text>
         <g
            id="g281614"
            transform="translate(214.17036,-524.87336)"
@@ -46202,19 +46465,19 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:4.50002px;line-height:0.75;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264582"
-           x="169.05763"
+           x="171.04749"
            y="522.5202"
            id="text281620"><tspan
              sodipodi:role="line"
              id="tspan281616"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50002px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="169.05763"
-             y="522.5202">六里塚</tspan><tspan
+             x="171.04749"
+             y="522.5202">若萊</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
-             x="169.05763"
+             x="171.04749"
              y="525.8952"
-             id="tspan281618">Lióklǝ́tióŋ</tspan></text>
+             id="tspan281618">Ñiáklai</tspan></text>
         <g
            id="g31283"
            transform="translate(224.44129,-510.96398)"
@@ -46615,8 +46878,7 @@
          inkscape:groupmode="layer"
          id="layer90"
          inkscape:label="元標-禾州-縣"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g736372"
            transform="translate(413.80836,6.614586)">
@@ -46918,8 +47180,7 @@
          inkscape:groupmode="layer"
          id="layer91"
          inkscape:label="元標-禾州-市"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g826737"
            transform="translate(88.86711,-199.15589)">
@@ -47004,8 +47265,7 @@
          inkscape:groupmode="layer"
          id="layer86"
          inkscape:label="元標-禾州-州"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:6.00003px;line-height:1.4;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -49307,7 +49567,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="94.353088"
              y="1132.9275"
-             id="tspan39499">Yøzek</tspan></text>
+             id="tspan39499">Iøzek</tspan></text>
         <g
            id="g119822"
            transform="translate(-103.84994,140.8675)">
