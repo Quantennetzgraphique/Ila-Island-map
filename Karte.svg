@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.1748522"
-     inkscape:cx="2606.384"
-     inkscape:cy="7681.9013"
+     inkscape:zoom="0.76892637"
+     inkscape:cx="2602.9801"
+     inkscape:cy="5728.767"
      inkscape:window-width="1920"
      inkscape:window-height="1000"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer271"
+     inkscape:current-layer="layer100"
      gridtolerance="10000"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -9302,9 +9302,9 @@
          sodipodi:nodetypes="csc" />
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-         d="m 136.59238,1313.7648 31.19821,-20.2705"
+         d="m 167.79059,1293.4943 -31.19821,20.2705 -2.57504,7.5477 c -0.9357,2.7426 -1.16844,3.9602 -1.4839,6.3012 l -3.26891,24.2587 -10.30132,-2.5162 c -3.83497,-0.9367 -7.91417,-4.7313 -8.86043,-7.226 -0.94626,-2.4947 -1.78499,-4.0216 -3.09685,-5.6991"
          id="path395821"
-         sodipodi:nodetypes="cc" />
+         sodipodi:nodetypes="ccsscssc" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          d="m 82.383646,1166.8355 h 5.039783 c 1.984375,0 7.443179,-1.2365 10.021094,-1.6311 l 32.411457,-4.9609"
@@ -9345,6 +9345,10 @@
          d="m 138.02496,1117.2817 -20.47414,-6.6777"
          id="path554424"
          sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffff00;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         d="m 133.68392,1356.0603 -4.41939,-4.1879"
+         id="path48253" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13773,8 +13777,7 @@
      inkscape:groupmode="layer"
      id="layer122"
      inkscape:label="山地名稱"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g1353094"
        transform="translate(1087.9962,920.29163)">
@@ -13881,7 +13884,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
            x="976.72455"
            y="755.09723"
-           id="tspan1385443">Þoŋ'ioŋ Tók</tspan></text>
+           id="tspan1385443">Þoŋ'ioŋ Tók/Kŕ</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:3px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
@@ -15825,7 +15828,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.50001px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
            x="1844.1022"
            y="658.52679"
-           id="tspan1226355">平和峠</tspan></text>
+           id="tspan1226355">禮梨峠</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
@@ -15837,7 +15840,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
            x="1845.7897"
            y="661.90179"
-           id="tspan1226359">Beŋwa Tók</tspan></text>
+           id="tspan1226359">Lélǝ Tók/Kŕ</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:3px;line-height:0.75;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
@@ -15849,7 +15852,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';stroke-width:0.264583"
            x="1841.8522"
            y="654.02679"
-           id="tspan1226363">へいわ</tspan></text>
+           id="tspan1226363">レーリ</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:0.75;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264583"
@@ -15861,7 +15864,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.264583"
            x="1847.3983"
            y="665.11908"
-           id="tspan1226367">Súleka Kŕ</tspan></text>
+           id="tspan1226367">Lelypass</tspan></text>
     </g>
     <g
        id="g22599"
@@ -18665,7 +18668,7 @@
          transform="translate(378.16248,399.42704)"
          style="display:inline">
         <rect
-           style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000;fill-opacity:0.5"
+           style="display:inline;fill:#ffffff;fill-opacity:0.5;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.9606;stop-color:#000000"
            id="rect779670"
            width="19.244368"
            height="5.2105217"
@@ -18697,7 +18700,7 @@
                id="tspan779676"
                style="font-size:4px;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
                x="336.79001"
-               y="1649.311">40·45</tspan></text>
+               y="1649.311">40·46</tspan></text>
         </g>
       </g>
     </g>
@@ -25819,7 +25822,7 @@
                id="tspan246388"
                style="font-size:4px;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
                x="336.79001"
-               y="1649.311">44·46</tspan></text>
+               y="1649.311">44·45</tspan></text>
         </g>
       </g>
       <g
@@ -26086,7 +26089,7 @@
                id="tspan354469"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;stroke-width:0.264583"
                x="-232.85617"
-               y="1569.0457">41·45</tspan></text>
+               y="1569.0457">41·46</tspan></text>
         </g>
       </g>
       <g
@@ -26113,7 +26116,7 @@
              id="tspan327279"
              style="font-size:4px;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
              x="481.42126"
-             y="1634.0886">44·46</tspan></text>
+             y="1634.0886">44·45</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
@@ -26169,7 +26172,7 @@
              id="tspan303355"
              style="font-size:4px;text-align:center;text-anchor:middle;fill:#0000ff;stroke:none;stroke-width:0.264583"
              x="509.06842"
-             y="1606.5378">44·46</tspan></text>
+             y="1606.5378">44·45</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:4px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke:none;stroke-width:0.264583"
@@ -28775,57 +28778,60 @@
    id="tspan567887">123</tspan></tspan></text>
       </g>
       <g
-         id="g31520"
-         transform="rotate(15,-632.12624,1727.037)"
-         style="display:inline">
+         id="g28670"
+         transform="translate(-0.51599489,1.8074924)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="412.24918"
-           y="1511.5895"
+           x="878.75769"
+           y="1617.004"
            id="text31506"
-           transform="matrix(1.0042282,-4.5383935e-4,4.5768545e-4,0.99578937,0,0)"><tspan
+           transform="matrix(0.97012743,0.25947501,-0.25728716,0.96197714,0,0)"><tspan
              sodipodi:role="line"
              id="tspan31504"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-             x="412.24918"
-             y="1511.5895">TS</tspan></text>
+             x="878.75769"
+             y="1617.004">TS</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="419.21097"
-           y="1511.5895"
+           x="885.71948"
+           y="1617.004"
            id="text31510"
-           transform="matrix(1.0042282,-4.5383935e-4,4.5768545e-4,0.99578937,0,0)"><tspan
+           transform="matrix(0.97012743,0.25947501,-0.25728716,0.96197714,0,0)"><tspan
              sodipodi:role="line"
              id="tspan31508"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#005522;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-             x="419.21097"
-             y="1511.5895">10·11</tspan></text>
+             x="885.71948"
+             y="1617.004">10·11</tspan></text>
+      </g>
+      <g
+         id="g28676"
+         transform="translate(-2.5941411,9.5631798)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="412.24765"
-           y="1514.9222"
+           x="878.75616"
+           y="1620.3368"
            id="text31514"
-           transform="matrix(1.0042282,-4.5383935e-4,4.5768545e-4,0.99578937,0,0)"><tspan
+           transform="matrix(0.97012743,0.25947501,-0.25728716,0.96197714,0,0)"><tspan
              sodipodi:role="line"
              id="tspan31512"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-             x="412.24765"
-             y="1514.9222">FT</tspan></text>
+             x="878.75616"
+             y="1620.3368">FT</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="419.20944"
-           y="1514.9222"
+           x="885.71796"
+           y="1620.3368"
            id="text31518"
-           transform="matrix(1.0042282,-4.5383935e-4,4.5768545e-4,0.99578937,0,0)"><tspan
+           transform="matrix(0.97012743,0.25947501,-0.25728716,0.96197714,0,0)"><tspan
              sodipodi:role="line"
              id="tspan31516"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3px;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#800080;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-             x="419.20944"
-             y="1514.9222">123</tspan></text>
+             x="885.71796"
+             y="1620.3368">123</tspan></text>
       </g>
       <g
          id="g557986"
@@ -41156,8 +41162,7 @@
      id="layer69"
      inkscape:label="道路元標"
      transform="translate(570,449.99997)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer75"
@@ -51081,8 +51086,7 @@
        inkscape:groupmode="layer"
        id="layer71"
        inkscape:label="元標-浦州"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <g
          inkscape:groupmode="layer"
          id="layer21"
@@ -51481,8 +51485,7 @@
          inkscape:groupmode="layer"
          id="layer22"
          inkscape:label="元標-浦州-邑"
-         style="display:inline"
-         sodipodi:insensitive="true">
+         style="display:inline">
         <g
            id="g557635"
            transform="translate(-1.290671,350.6256)">
@@ -52378,7 +52381,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00002px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;stroke-width:0.264582"
              x="136.57552"
              y="1310.333"
-             id="tspan673227-4-8">Drǝŋyan</tspan></text>
+             id="tspan673227-4-8">Drŋyan</tspan></text>
         <g
            id="g693738"
            transform="translate(-73.24299,303.94278)">
@@ -56740,24 +56743,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="2669.9995"
-       y="1580"
+       y="1470"
        id="text39758"><tspan
          sodipodi:role="line"
          id="tspan39756"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
          x="2669.9995"
-         y="1580">國鐵岬州局</tspan></text>
+         y="1470">國鐵岬州局</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="2709.9995"
-       y="1580"
+       y="1470"
        id="text39762"><tspan
          sodipodi:role="line"
          id="tspan39760"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
          x="2709.9995"
-         y="1580">NR Krávçiu</tspan></text>
+         y="1470">NR Krávçiu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
@@ -56784,24 +56787,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2669.9995"
-       y="1620.0001"
+       y="1570.0001"
        id="text39776"><tspan
          sodipodi:role="line"
          id="tspan39774"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#0000ff;stroke-width:0.264583"
          x="2669.9995"
-         y="1620.0001">禾州地鐵</tspan></text>
+         y="1570.0001">禾州地鐵</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2709.9995"
-       y="1620.0001"
+       y="1570.0001"
        id="text39780"><tspan
          sodipodi:role="line"
          id="tspan39778"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;stroke-width:0.264583"
          x="2709.9995"
-         y="1620.0001">Waçiu Métro</tspan></text>
+         y="1570.0001">Waçiu Métro</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#4040bf;fill-opacity:1;stroke-width:0.264583"
@@ -57002,28 +57005,6 @@
          y="1540.0002">r</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
-       x="2669.9995"
-       y="1539.9999"
-       id="text109919"><tspan
-         sodipodi:role="line"
-         id="tspan109917"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808080;stroke-width:0.264583"
-         x="2669.9995"
-         y="1539.9999">内河航路</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
-       x="2709.9995"
-       y="1539.9999"
-       id="text109923"><tspan
-         sodipodi:role="line"
-         id="tspan109921"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808080;stroke-width:0.264583"
-         x="2709.9995"
-         y="1539.9999">River</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="2619.9995"
        y="1530.0002"
@@ -57156,24 +57137,24 @@
          y="1520">pó</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
        x="2669.9995"
        y="1520"
        id="text148385"><tspan
          sodipodi:role="line"
          id="tspan148383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
          x="2669.9995"
          y="1520">津州電鐵</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;fill-opacity:1;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
        x="2709.9995"
        y="1520"
        id="text148389"><tspan
          sodipodi:role="line"
          id="tspan148387"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;fill-opacity:1;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
          x="2709.9995"
          y="1520">Cǝnçiu Rail</tspan></text>
     <text
@@ -57186,7 +57167,7 @@
          id="tspan148391"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
          x="2619.9995"
-         y="1510">Ø</tspan></text>
+         y="1510">O</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
@@ -57197,29 +57178,29 @@
          id="tspan148395"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
          x="2639.9995"
-         y="1510">yø</tspan></text>
+         y="1510">o</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="2669.9995"
-       y="1510.0001"
+       y="1580.0001"
        id="text148401"><tspan
          sodipodi:role="line"
          id="tspan148399"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
          x="2669.9995"
-         y="1510.0001">國鐵峪州局</tspan></text>
+         y="1580.0001">國鐵峪州局</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="2709.9995"
-       y="1510.0001"
+       y="1580.0001"
        id="text148405"><tspan
          sodipodi:role="line"
          id="tspan148403"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
          x="2709.9995"
-         y="1510.0001">NR Iókçiu</tspan></text>
+         y="1580.0001">NR Iókçiu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
@@ -57422,24 +57403,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="2669.9995"
-       y="1480.0002"
+       y="1540.0002"
        id="text148481"><tspan
          sodipodi:role="line"
          id="tspan148479"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
          x="2669.9995"
-         y="1480.0002">國鐵嶺州局</tspan></text>
+         y="1540.0002">國鐵嶺州局</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="2709.9995"
-       y="1480.0002"
+       y="1540.0002"
        id="text148485"><tspan
          sodipodi:role="line"
          id="tspan148483"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
          x="2709.9995"
-         y="1480.0002">NR Léŋçiu</tspan></text>
+         y="1540.0002">NR Léŋçiu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
@@ -57466,24 +57447,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2669.9995"
-       y="1470.0002"
+       y="1480.0002"
        id="text148497"><tspan
          sodipodi:role="line"
          id="tspan148495"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#0000ff;stroke-width:0.264583"
          x="2669.9995"
-         y="1470.0002">濼水電鐵</tspan></text>
+         y="1480.0002">濼水電鐵</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2709.9995"
-       y="1470.0002"
+       y="1480.0002"
        id="text148501"><tspan
          sodipodi:role="line"
          id="tspan148499"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;stroke-width:0.264583"
          x="2709.9995"
-         y="1470.0002">Lákşý Rail</tspan></text>
+         y="1480.0002">Lákşý Rail</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
@@ -57750,24 +57731,24 @@
          y="1410">ie</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2669.9995"
        y="1409.9999"
        id="text222841"><tspan
          sodipodi:role="line"
          id="tspan222839"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#0000ff;stroke-width:0.264583"
          x="2669.9995"
          y="1409.9999">鹽州交通</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2709.9995"
        y="1409.9999"
        id="text222845"><tspan
          sodipodi:role="line"
          id="tspan222843"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;stroke-width:0.264583"
          x="2709.9995"
          y="1409.9999">Iemçiu Transport</tspan></text>
     <text
@@ -57796,24 +57777,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2749.9998"
-       y="1510"
+       y="1630"
        id="text222865"><tspan
          sodipodi:role="line"
          id="tspan222863"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808000;stroke-width:0.264583"
          x="2749.9998"
-         y="1510">輪渡</tspan></text>
+         y="1630">輪渡</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.264583"
        x="2789.9998"
-       y="1510"
+       y="1630"
        id="text222869"><tspan
          sodipodi:role="line"
          id="tspan222867"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808000;stroke-width:0.264583"
          x="2789.9998"
-         y="1510">Ferry</tspan></text>
+         y="1630">Ferry</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;fill-opacity:1;stroke-width:0.264583"
@@ -57950,24 +57931,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2669.9995"
-       y="1569.9999"
+       y="1619.9999"
        id="text222921"><tspan
          sodipodi:role="line"
          id="tspan222919"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#0000ff;stroke-width:0.264583"
          x="2669.9995"
-         y="1569.9999">東海鐵道</tspan></text>
+         y="1619.9999">東海鐵道</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2709.9995"
-       y="1569.9999"
+       y="1619.9999"
        id="text222925"><tspan
          sodipodi:role="line"
          id="tspan222923"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;stroke-width:0.264583"
          x="2709.9995"
-         y="1569.9999">Toŋhái Rail</tspan></text>
+         y="1619.9999">Toŋhái Rail</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
@@ -57992,24 +57973,24 @@
          y="1370.0002">a</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2669.9995"
        y="1370.0002"
        id="text222937"><tspan
          sodipodi:role="line"
          id="tspan222935"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#800080;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#0000ff;stroke-width:0.264583"
          x="2669.9995"
          y="1370.0002">鋁州交通</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800080;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
        x="2709.9995"
        y="1370.0002"
        id="text222941"><tspan
          sodipodi:role="line"
          id="tspan222939"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800080;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#0000ff;stroke-width:0.264583"
          x="2709.9995"
          y="1370.0002">Lióçiu Transport</tspan></text>
     <text
@@ -58698,6 +58679,50 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808080;stroke-width:0.264583"
          x="2789.9998"
          y="1470">Cargo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       x="2619.9995"
+       y="1630.0005"
+       id="text23469"><tspan
+         sodipodi:role="line"
+         id="tspan23467"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         x="2619.9995"
+         y="1630.0005">Π</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       x="2639.9995"
+       y="1630.0005"
+       id="text23473"><tspan
+         sodipodi:role="line"
+         id="tspan23471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
+         x="2639.9995"
+         y="1630.0005">pi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
+       x="2669.9995"
+       y="1629.9999"
+       id="text23477"><tspan
+         sodipodi:role="line"
+         id="tspan23475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#808080;stroke-width:0.264583"
+         x="2669.9995"
+         y="1629.9999">内河航路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#808080;stroke-width:0.264583"
+       x="2709.9995"
+       y="1629.9999"
+       id="text23481"><tspan
+         sodipodi:role="line"
+         id="tspan23479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#808080;stroke-width:0.264583"
+         x="2709.9995"
+         y="1629.9999">River</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -58709,101 +58734,101 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2659.9995"
-       y="1050.0005"
+       y="1090.0005"
        id="text31350"><tspan
          sodipodi:role="line"
          id="tspan31348"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2659.9995"
-         y="1050.0005">   '</tspan></text>
+         y="1090.0005">   '</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2679.9995"
-       y="1050.0005"
+       y="1090.0005"
        id="text39005"><tspan
          sodipodi:role="line"
          id="tspan39003"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2679.9995"
-         y="1050.0005">K k</tspan></text>
+         y="1090.0005">K k</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2699.9995"
-       y="1050.0005"
+       y="1090.0005"
        id="text41319"><tspan
          sodipodi:role="line"
          id="tspan41317"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2699.9995"
-         y="1050.0005">Ç ç</tspan></text>
+         y="1090.0005">Ç ç</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2719.9995"
-       y="1050.0005"
+       y="1090.0005"
        id="text43039"><tspan
          sodipodi:role="line"
          id="tspan43037"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2719.9995"
-         y="1050.0005">C c</tspan></text>
+         y="1090.0005">C c</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2739.9995"
-       y="1050.0005"
+       y="1090.0005"
        id="text44077"><tspan
          sodipodi:role="line"
          id="tspan44075"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2739.9995"
-         y="1050.0005">T t</tspan></text>
+         y="1090.0005">T t</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1050.0005"
+       y="1090.0005"
        id="text44411"><tspan
          sodipodi:role="line"
          id="tspan44409"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1050.0005">P p</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2659.9995"
-       y="1080.0005"
-       id="text47103"><tspan
-         sodipodi:role="line"
-         id="tspan47101"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2659.9995"
-         y="1080.0005">H h</tspan></text>
+         y="1090.0005">P p</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2659.9995"
        y="1110.0005"
+       id="text47103"><tspan
+         sodipodi:role="line"
+         id="tspan47101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2659.9995"
+         y="1110.0005">H h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2659.9995"
+       y="1130.0005"
        id="text50797"><tspan
          sodipodi:role="line"
          id="tspan50795"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2659.9995"
-         y="1110.0005">Q q</tspan></text>
+         y="1130.0005">Q q</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2659.9995"
-       y="1140.0005"
+       y="1150.0005"
        id="text56153"><tspan
          sodipodi:role="line"
          id="tspan56151"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2659.9995"
-         y="1140.0005">   ◌́</tspan></text>
+         y="1150.0005">   ◌́</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -58819,46 +58844,46 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2659.9995"
-       y="1240.0005"
+       y="1190.0005"
        id="text57613"><tspan
          sodipodi:role="line"
          id="tspan57611"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2659.9995"
-         y="1240.0005">O o</tspan></text>
+         y="1190.0005">O o</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2679.9995"
-       y="1080.0002"
+       y="1110.0002"
        id="text69648"><tspan
          sodipodi:role="line"
          id="tspan69646"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2679.9995"
-         y="1080.0002">X x</tspan></text>
+         y="1110.0002">X x</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2679.9995"
-       y="1110.0005"
+       y="1130.0005"
        id="text69982"><tspan
          sodipodi:role="line"
          id="tspan69980"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2679.9995"
-         y="1110.0005">G g</tspan></text>
+         y="1130.0005">G g</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2679.9995"
-       y="1140.0005"
+       y="1150.0005"
        id="text71768"><tspan
          sodipodi:role="line"
          id="tspan71766"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2679.9995"
-         y="1140.0005">Ŋ ŋ</tspan></text>
+         y="1150.0005">Ŋ ŋ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -58874,46 +58899,46 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2679.9995"
-       y="1240.0005"
+       y="1190.0005"
        id="text72700"><tspan
          sodipodi:role="line"
          id="tspan72698"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2679.9995"
-         y="1240.0005">Ø ø</tspan></text>
+         y="1190.0005">Ø ø</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2699.9995"
-       y="1080.0002"
+       y="1110.0002"
        id="text76073"><tspan
          sodipodi:role="line"
          id="tspan76071"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2699.9995"
-         y="1080.0002">Ş ş</tspan></text>
+         y="1110.0002">Ş ş</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2699.9995"
-       y="1110.0005"
+       y="1130.0005"
        id="text76671"><tspan
          sodipodi:role="line"
          id="tspan76669"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2699.9995"
-         y="1110.0005">J j</tspan></text>
+         y="1130.0005">J j</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2699.9995"
-       y="1140.0005"
+       y="1150.0005"
        id="text78259"><tspan
          sodipodi:role="line"
          id="tspan78257"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2699.9995"
-         y="1140.0005">Ñ ñ</tspan></text>
+         y="1150.0005">Ñ ñ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -58929,46 +58954,46 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2699.9995"
-       y="1240.0005"
+       y="1190.0005"
        id="text81017"><tspan
          sodipodi:role="line"
          id="tspan81015"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2699.9995"
-         y="1240.0005">Y y</tspan></text>
+         y="1190.0005">Y y</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2719.9995"
-       y="1080.0002"
+       y="1110.0002"
        id="text81945"><tspan
          sodipodi:role="line"
          id="tspan81943"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2719.9995"
-         y="1080.0002">S s</tspan></text>
+         y="1110.0002">S s</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2719.9995"
-       y="1110.0005"
+       y="1130.0005"
        id="text82543"><tspan
          sodipodi:role="line"
          id="tspan82541"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2719.9995"
-         y="1110.0005">Z z</tspan></text>
+         y="1130.0005">Z z</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2719.9995"
-       y="1140.0005"
+       y="1150.0005"
        id="text83405"><tspan
          sodipodi:role="line"
          id="tspan83403"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2719.9995"
-         y="1140.0005">L l</tspan></text>
+         y="1150.0005">L l</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -58984,46 +59009,46 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2719.9995"
-       y="1240.0005"
+       y="1190.0005"
        id="text86537"><tspan
          sodipodi:role="line"
          id="tspan86535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2719.9995"
-         y="1240.0005">U u</tspan></text>
+         y="1190.0005">U u</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2739.9995"
-       y="1080.0002"
+       y="1110.0002"
        id="text88763"><tspan
          sodipodi:role="line"
          id="tspan88761"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2739.9995"
-         y="1080.0002">Þ þ</tspan></text>
+         y="1110.0002">Þ þ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2739.9995"
-       y="1110.0005"
+       y="1130.0005"
        id="text89361"><tspan
          sodipodi:role="line"
          id="tspan89359"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2739.9995"
-         y="1110.0005">D d</tspan></text>
+         y="1130.0005">D d</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2739.9995"
-       y="1140.0005"
+       y="1150.0005"
        id="text90091"><tspan
          sodipodi:role="line"
          id="tspan90089"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2739.9995"
-         y="1140.0005">N n</tspan></text>
+         y="1150.0005">N n</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59039,46 +59064,46 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2739.9995"
-       y="1240.0005"
+       y="1190.0005"
        id="text91287"><tspan
          sodipodi:role="line"
          id="tspan91285"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2739.9995"
-         y="1240.0005">Ł ł</tspan></text>
+         y="1190.0005">Ł ł</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1080.0002"
+       y="1110.0002"
        id="text92149"><tspan
          sodipodi:role="line"
          id="tspan92147"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1080.0002">F f</tspan></text>
+         y="1110.0002">F f</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1110.0005"
+       y="1130.0005"
        id="text92615"><tspan
          sodipodi:role="line"
          id="tspan92613"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1110.0005">B b</tspan></text>
+         y="1130.0005">B b</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1140.0005"
+       y="1150.0005"
        id="text92883"><tspan
          sodipodi:role="line"
          id="tspan92881"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1140.0005">M m</tspan></text>
+         y="1150.0005">M m</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
@@ -59094,57 +59119,57 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1240.0005"
+       y="1190.0005"
        id="text93551"><tspan
          sodipodi:role="line"
          id="tspan93549"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1240.0005">W w</tspan></text>
+         y="1190.0005">W w</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2659.9995"
-       y="1058.0005"
+       y="1098.0005"
        id="text102812"><tspan
          sodipodi:role="line"
          id="tspan102810"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2659.9995"
-         y="1058.0005">/ʔ/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2659.9995"
-       y="1088.0005"
-       id="text110812"><tspan
-         sodipodi:role="line"
-         id="tspan110810"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2659.9995"
-         y="1088.0005">/h/</tspan></text>
+         y="1098.0005">/ʔ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2659.9995"
        y="1118.0005"
+       id="text110812"><tspan
+         sodipodi:role="line"
+         id="tspan110810"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2659.9995"
+         y="1118.0005">/h/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2659.9995"
+       y="1138.0005"
        id="text111464"><tspan
          sodipodi:role="line"
          id="tspan111462"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2659.9995"
-         y="1118.0005">/ʕ/</tspan></text>
+         y="1138.0005">/ʕ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2659.9995"
-       y="1148.0005"
+       y="1158.0005"
        id="text115235"><tspan
          sodipodi:role="line"
          id="tspan115233"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2659.9995"
-         y="1148.0005">/◌́/</tspan></text>
+         y="1158.0005">/◌́/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59160,57 +59185,57 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2659.9995"
-       y="1248.0005"
+       y="1198.0005"
        id="text117123"><tspan
          sodipodi:role="line"
          id="tspan117121"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2659.9995"
-         y="1248.0005">/o/</tspan></text>
+         y="1198.0005">/o/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2679.9995"
-       y="1058.0005"
+       y="1098.0005"
        id="text120012"><tspan
          sodipodi:role="line"
          id="tspan120010"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2679.9995"
-         y="1058.0005">/k/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2679.9995"
-       y="1088.0005"
-       id="text120412"><tspan
-         sodipodi:role="line"
-         id="tspan120410"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2679.9995"
-         y="1088.0005">/x/</tspan></text>
+         y="1098.0005">/k/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2679.9995"
        y="1118.0005"
+       id="text120412"><tspan
+         sodipodi:role="line"
+         id="tspan120410"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2679.9995"
+         y="1118.0005">/x/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2679.9995"
+       y="1138.0005"
        id="text120932"><tspan
          sodipodi:role="line"
          id="tspan120930"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2679.9995"
-         y="1118.0005">/g/</tspan></text>
+         y="1138.0005">/g/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2679.9995"
-       y="1148.0005"
+       y="1158.0005"
        id="text122102"><tspan
          sodipodi:role="line"
          id="tspan122100"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2679.9995"
-         y="1148.0005">/ŋ/</tspan></text>
+         y="1158.0005">/ŋ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59226,57 +59251,57 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2679.9995"
-       y="1248.0005"
+       y="1198.0005"
        id="text126690"><tspan
          sodipodi:role="line"
          id="tspan126688"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2679.9995"
-         y="1248.0005">/ø/</tspan></text>
+         y="1198.0005">/ø/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2699.9995"
-       y="1058.0005"
+       y="1098.0005"
        id="text129369"><tspan
          sodipodi:role="line"
          id="tspan129367"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2699.9995"
-         y="1058.0005">/tɕ/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2699.9995"
-       y="1088.0005"
-       id="text131187"><tspan
-         sodipodi:role="line"
-         id="tspan131185"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2699.9995"
-         y="1088.0005">/ɕ/</tspan></text>
+         y="1098.0005">/tɕ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2699.9995"
        y="1118.0005"
+       id="text131187"><tspan
+         sodipodi:role="line"
+         id="tspan131185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2699.9995"
+         y="1118.0005">/ɕ/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2699.9995"
+       y="1138.0005"
        id="text132801"><tspan
          sodipodi:role="line"
          id="tspan132799"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2699.9995"
-         y="1118.0005">/dʑ/</tspan></text>
+         y="1138.0005">/dʑ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2699.9995"
-       y="1148.0005"
+       y="1158.0005"
        id="text134023"><tspan
          sodipodi:role="line"
          id="tspan134021"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2699.9995"
-         y="1148.0005">/ɲ/</tspan></text>
+         y="1158.0005">/ɲ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59292,57 +59317,57 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2699.9995"
-       y="1248.0005"
+       y="1198.0005"
        id="text136537"><tspan
          sodipodi:role="line"
          id="tspan136535"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2699.9995"
-         y="1248.0005">/y/</tspan></text>
+         y="1198.0005">/y/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2719.9995"
-       y="1058.0005"
+       y="1098.0005"
        id="text138778"><tspan
          sodipodi:role="line"
          id="tspan138776"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2719.9995"
-         y="1058.0005">/ts/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2719.9995"
-       y="1088.0005"
-       id="text139706"><tspan
-         sodipodi:role="line"
-         id="tspan139704"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2719.9995"
-         y="1088.0005">/s/</tspan></text>
+         y="1098.0005">/ts/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2719.9995"
        y="1118.0005"
+       id="text139706"><tspan
+         sodipodi:role="line"
+         id="tspan139704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2719.9995"
+         y="1118.0005">/s/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2719.9995"
+       y="1138.0005"
        id="text140568"><tspan
          sodipodi:role="line"
          id="tspan140566"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2719.9995"
-         y="1118.0005">/dz/</tspan></text>
+         y="1138.0005">/dz/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2719.9995"
-       y="1148.0005"
+       y="1158.0005"
        id="text141858"><tspan
          sodipodi:role="line"
          id="tspan141856"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2719.9995"
-         y="1148.0005">/l/</tspan></text>
+         y="1158.0005">/l/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59358,57 +59383,57 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2719.9995"
-       y="1248.0005"
+       y="1198.0005"
        id="text143940"><tspan
          sodipodi:role="line"
          id="tspan143938"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2719.9995"
-         y="1248.0005">/u/</tspan></text>
+         y="1198.0005">/u/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2739.9995"
-       y="1058.0005"
+       y="1098.0005"
        id="text145995"><tspan
          sodipodi:role="line"
          id="tspan145993"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2739.9995"
-         y="1058.0005">/t/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2739.9995"
-       y="1088.0005"
-       id="text146527"><tspan
-         sodipodi:role="line"
-         id="tspan146525"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2739.9995"
-         y="1088.0005">/θ/</tspan></text>
+         y="1098.0005">/t/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2739.9995"
        y="1118.0005"
+       id="text146527"><tspan
+         sodipodi:role="line"
+         id="tspan146525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2739.9995"
+         y="1118.0005">/θ/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2739.9995"
+       y="1138.0005"
        id="text148069"><tspan
          sodipodi:role="line"
          id="tspan148067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2739.9995"
-         y="1118.0005">/d/</tspan></text>
+         y="1138.0005">/d/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2739.9995"
-       y="1148.0005"
+       y="1158.0005"
        id="text148865"><tspan
          sodipodi:role="line"
          id="tspan148863"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2739.9995"
-         y="1148.0005">/n/</tspan></text>
+         y="1158.0005">/n/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59424,57 +59449,57 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
        x="2739.9995"
-       y="1248.0005"
+       y="1198.0005"
        id="text151573"><tspan
          sodipodi:role="line"
          id="tspan151571"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
          x="2739.9995"
-         y="1248.0005">/ɻ̩ʷ/</tspan></text>
+         y="1198.0005">/ɻ̩ʷ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1058.0005"
+       y="1098.0005"
        id="text154156"><tspan
          sodipodi:role="line"
          id="tspan154154"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1058.0005">/p/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2759.9995"
-       y="1088.0005"
-       id="text155084"><tspan
-         sodipodi:role="line"
-         id="tspan155082"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2759.9995"
-         y="1088.0005">/f/</tspan></text>
+         y="1098.0005">/p/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
        y="1118.0005"
+       id="text155084"><tspan
+         sodipodi:role="line"
+         id="tspan155082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2759.9995"
+         y="1118.0005">/f/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2759.9995"
+       y="1138.0005"
        id="text155792"><tspan
          sodipodi:role="line"
          id="tspan155790"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1118.0005">/b/</tspan></text>
+         y="1138.0005">/b/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1148.0005"
+       y="1158.0005"
        id="text156786"><tspan
          sodipodi:role="line"
          id="tspan156784"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1148.0005">/m/</tspan></text>
+         y="1158.0005">/m/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
@@ -59490,112 +59515,112 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2759.9995"
-       y="1248.0005"
+       y="1198.0005"
        id="text157388"><tspan
          sodipodi:role="line"
          id="tspan157386"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2759.9995"
-         y="1248.0005">/w/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2789.9993"
-       y="1050.0006"
-       id="text9133"><tspan
-         sodipodi:role="line"
-         id="tspan9131"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2789.9993"
-         y="1050.0006">(I 'i)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2789.9993"
-       y="1080.0006"
-       id="text9137"><tspan
-         sodipodi:role="line"
-         id="tspan9135"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2789.9993"
-         y="1080.0006">(Y 'y)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2789.9993"
-       y="1058.0005"
-       id="text9141"><tspan
-         sodipodi:role="line"
-         id="tspan9139"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2789.9993"
-         y="1058.0005">/j/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
-       x="2789.9993"
-       y="1088.0006"
-       id="text9145"><tspan
-         sodipodi:role="line"
-         id="tspan9143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
-         x="2789.9993"
-         y="1088.0006">/ɥ/</tspan></text>
+         y="1198.0005">/w/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2789.9993"
        y="1110.0006"
-       id="text9149"><tspan
+       id="text9133"><tspan
          sodipodi:role="line"
-         id="tspan9147"
+         id="tspan9131"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2789.9993"
-         y="1110.0006">(R 'r)</tspan></text>
+         y="1110.0006">(I 'i)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2789.9993"
-       y="1140.0006"
-       id="text9153"><tspan
+       y="1130.0006"
+       id="text9137"><tspan
          sodipodi:role="line"
-         id="tspan9151"
+         id="tspan9135"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2789.9993"
-         y="1140.0006">(Ł 'ł)</tspan></text>
+         y="1130.0006">(Y 'y)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2789.9993"
        y="1118.0005"
+       id="text9141"><tspan
+         sodipodi:role="line"
+         id="tspan9139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2789.9993"
+         y="1118.0005">/j/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2789.9993"
+       y="1138.0006"
+       id="text9145"><tspan
+         sodipodi:role="line"
+         id="tspan9143"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2789.9993"
+         y="1138.0006">/ɥ/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2789.9993"
+       y="1150.0006"
+       id="text9149"><tspan
+         sodipodi:role="line"
+         id="tspan9147"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2789.9993"
+         y="1150.0006">(R 'r)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2789.9993"
+       y="1170.0006"
+       id="text9153"><tspan
+         sodipodi:role="line"
+         id="tspan9151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
+         x="2789.9993"
+         y="1170.0006">(Ł 'ł)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
+       x="2789.9993"
+       y="1158.0005"
        id="text9157"><tspan
          sodipodi:role="line"
          id="tspan9155"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2789.9993"
-         y="1118.0005">/ɻ/</tspan></text>
+         y="1158.0005">/ɻ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2789.9993"
-       y="1148.0006"
+       y="1178.0006"
        id="text9161"><tspan
          sodipodi:role="line"
          id="tspan9159"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2789.9993"
-         y="1148.0006">/ɻʷ/</tspan></text>
+         y="1178.0006">/ɻʷ/</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2629.9995"
-       y="1080.0002"
+       y="1110.0002"
        id="text29741"><tspan
          sodipodi:role="line"
          id="tspan29739"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000080;stroke-width:0.264583"
          x="2629.9995"
-         y="1080.0002">子音</tspan></text>
+         y="1110.0002">子音</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59611,13 +59636,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
        x="2629.9995"
-       y="1088.0005"
+       y="1118.0005"
        id="text34673"><tspan
          sodipodi:role="line"
          id="tspan34671"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000080;stroke-width:0.264583"
          x="2629.9995"
-         y="1088.0005">Consonants</tspan></text>
+         y="1118.0005">Consonants</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
@@ -59633,1248 +59658,19 @@
        xml:space="preserve"
        style="font-size:6.00001px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;stroke-width:0.264583"
        x="2710"
-       y="1035.0005"
+       y="1075.0005"
        id="text67405"><tspan
          sodipodi:role="line"
          id="tspan67403"
          style="stroke-width:0.264583"
          x="2710"
-         y="1035.0005">拼音表　<tspan
+         y="1075.0005">拼音表　<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma"
    id="tspan69609"> Orthography</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1300.0005"
-       id="text111428"><tspan
-         sodipodi:role="line"
-         id="tspan111426"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1300.0005">(ai)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1300.0005"
-       id="text111432"><tspan
-         sodipodi:role="line"
-         id="tspan111430"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1300.0005">(au)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1308.0005"
-       id="text111436"><tspan
-         sodipodi:role="line"
-         id="tspan111434"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1308.0005">/aj/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00001px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1308.0005"
-       id="text111440"><tspan
-         sodipodi:role="line"
-         id="tspan111438"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#800000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1308.0005">/aw/</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1066.0005"
-       id="text131764"><tspan
-         sodipodi:role="line"
-         id="tspan131762"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1066.0005">幫</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1066.0005"
-       id="text133628"><tspan
-         sodipodi:role="line"
-         id="tspan133626"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1066.0005">影以矣</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1096.0009"
-       id="text134440"><tspan
-         sodipodi:role="line"
-         id="tspan134438"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1096.0009">滂非</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1096.0009"
-       id="text134444"><tspan
-         sodipodi:role="line"
-         id="tspan134442"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1096.0009">威維云<tspan
-   style="font-size:3px;fill:#000000"
-   id="tspan141270" /></tspan></text>
     <g
        clip-path="url(#clipEmfPath1)"
        id="g137058"
        transform="matrix(0.26458333,0,0,0.26458333,3362,1095.331)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1100.0009"
-       id="text160199"><tspan
-         sodipodi:role="line"
-         id="tspan160197"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1100.0009"><tspan
-           id="tspan160195"
-           style="font-size:3px;fill:#000000">(幫3A合)</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1100.0009"
-       id="text160205"><tspan
-         sodipodi:role="line"
-         id="tspan160203"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1100.0009"><tspan
-           id="tspan160201"
-           style="font-size:3px;fill:#000000">(影以云3合)</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1070.0001"
-       id="text163229"><tspan
-         sodipodi:role="line"
-         id="tspan163227"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1070.0001"><tspan
-           id="tspan163225"
-           style="font-size:3px;fill:#000000">(影以云3開)</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1126.0009"
-       id="text182289"><tspan
-         sodipodi:role="line"
-         id="tspan182287"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1126.0009">並</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1126.0009"
-       id="text182295"><tspan
-         sodipodi:role="line"
-         id="tspan182293"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1126.0009">鴨匣</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1130.0009"
-       id="text182307"><tspan
-         sodipodi:role="line"
-         id="tspan182305"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1130.0009">(影匣2開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1156.0009"
-       id="text185025"><tspan
-         sodipodi:role="line"
-         id="tspan185023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1156.0009">明</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1156.0009"
-       id="text185029"><tspan
-         sodipodi:role="line"
-         id="tspan185027"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1156.0009">蛙華</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9995"
-       y="1160.0009"
-       id="text185033"><tspan
-         sodipodi:role="line"
-         id="tspan185031"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9995"
-         y="1160.0009">(影匣2合)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1186.0007"
-       id="text195936"><tspan
-         sodipodi:role="line"
-         id="tspan195934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1186.0007">奉微</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1190.0007"
-       id="text195940"><tspan
-         sodipodi:role="line"
-         id="tspan195938"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1190.0007">(並明3A合)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1256.0007"
-       id="text195944"><tspan
-         sodipodi:role="line"
-         id="tspan195942"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1256.0007">倭和</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2759.9995"
-       y="1260.0007"
-       id="text195948"><tspan
-         sodipodi:role="line"
-         id="tspan195946"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2759.9995"
-         y="1260.0007">(影匣14合)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9993"
-       y="1206.0006"
-       id="text207243"><tspan
-         sodipodi:role="line"
-         id="tspan207241"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
-         x="2789.9993"
-         y="1206.0006">-m/-v</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9993"
-       y="1216.0006"
-       id="text207955"><tspan
-         sodipodi:role="line"
-         id="tspan207953"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
-         x="2789.9993"
-         y="1216.0006">-n/-l</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9993"
-       y="1226.0006"
-       id="text207959"><tspan
-         sodipodi:role="line"
-         id="tspan207957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
-         x="2789.9993"
-         y="1226.0006">-ŋ/-k</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9993"
-       y="1276.0002"
-       id="text210037"><tspan
-         sodipodi:role="line"
-         id="tspan210035"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
-         x="2789.9993"
-         y="1276.0002">-n/-l</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9993"
-       y="1286.0002"
-       id="text210041"><tspan
-         sodipodi:role="line"
-         id="tspan210039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;stroke-width:0.264583"
-         x="2789.9993"
-         y="1286.0002">-ŋ/-k</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1066.0005"
-       id="text229753"><tspan
-         sodipodi:role="line"
-         id="tspan229751"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1066.0005">知端</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1096.0009"
-       id="text229759"><tspan
-         sodipodi:role="line"
-         id="tspan229757"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1096.0009">徹透</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1126.0009"
-       id="text229763"><tspan
-         sodipodi:role="line"
-         id="tspan229761"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1126.0009">澄定</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1156.0009"
-       id="text229767"><tspan
-         sodipodi:role="line"
-         id="tspan229765"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1156.0009">娘泥</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1186.0007"
-       id="text229771"><tspan
-         sodipodi:role="line"
-         id="tspan229769"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1186.0007"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan243472">2</tspan>開</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1256.0007"
-       id="text229775"><tspan
-         sodipodi:role="line"
-         id="tspan229773"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1256.0007"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan242702">2</tspan>合</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1196.0007"
-       id="text262530"><tspan
-         sodipodi:role="line"
-         id="tspan262528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1196.0007">淄</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1200.0007"
-       id="text262534"><tspan
-         sodipodi:role="line"
-         id="tspan262532"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1200.0007">(莊知組支…開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1206.0007"
-       id="text272378"><tspan
-         sodipodi:role="line"
-         id="tspan272376"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1206.0007">郴</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1210.0007"
-       id="text272382"><tspan
-         sodipodi:role="line"
-         id="tspan272380"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1210.0007">(莊知組侵韻)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1216.0007"
-       id="text272386"><tspan
-         sodipodi:role="line"
-         id="tspan272384"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1216.0007">珍</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1220.0007"
-       id="text272390"><tspan
-         sodipodi:role="line"
-         id="tspan272388"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1220.0007">(莊知組真臻開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1266.001"
-       id="text283000"><tspan
-         sodipodi:role="line"
-         id="tspan282998"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1266.001">追</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1270.001"
-       id="text283004"><tspan
-         sodipodi:role="line"
-         id="tspan283002"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1270.001">(莊知組支脂合)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1276.0012"
-       id="text283008"><tspan
-         sodipodi:role="line"
-         id="tspan283006"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1276.0012">椿</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1280.0012"
-       id="text283012"><tspan
-         sodipodi:role="line"
-         id="tspan283010"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1280.0012">(莊知組諄韻)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1066.0005"
-       id="text304578"><tspan
-         sodipodi:role="line"
-         id="tspan304576"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1066.0005">莊精</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1096.0009"
-       id="text304582"><tspan
-         sodipodi:role="line"
-         id="tspan304580"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1096.0009">生初心清</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1126.0009"
-       id="text304586"><tspan
-         sodipodi:role="line"
-         id="tspan304584"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1126.0009">俟崇邪從</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1156.0009"
-       id="text304590"><tspan
-         sodipodi:role="line"
-         id="tspan304588"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1156.0009">來</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1196.0007"
-       id="text304594"><tspan
-         sodipodi:role="line"
-         id="tspan304592"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1196.0007">資</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1200.0007"
-       id="text304598"><tspan
-         sodipodi:role="line"
-         id="tspan304596"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1200.0007">(精來組支…開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1206.0007"
-       id="text304602"><tspan
-         sodipodi:role="line"
-         id="tspan304600"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1206.0007">侵</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1210.0007"
-       id="text304606"><tspan
-         sodipodi:role="line"
-         id="tspan304604"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1210.0007">(精來組侵韻)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1216.0007"
-       id="text304610"><tspan
-         sodipodi:role="line"
-         id="tspan304608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1216.0007">津</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1220.0007"
-       id="text304614"><tspan
-         sodipodi:role="line"
-         id="tspan304612"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1220.0007">(精來組真開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1266.001"
-       id="text304618"><tspan
-         sodipodi:role="line"
-         id="tspan304616"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1266.001">尤雖</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1270.001"
-       id="text304622"><tspan
-         sodipodi:role="line"
-         id="tspan304620"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1270.001">(精來組支脂合)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1276.0012"
-       id="text304626"><tspan
-         sodipodi:role="line"
-         id="tspan304624"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1276.0012">遵</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1280.0012"
-       id="text304630"><tspan
-         sodipodi:role="line"
-         id="tspan304628"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1280.0012">(精來組諄韻)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1066.0005"
-       id="text304634"><tspan
-         sodipodi:role="line"
-         id="tspan304632"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1066.0005">章</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1096.0009"
-       id="text304638"><tspan
-         sodipodi:role="line"
-         id="tspan304636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1096.0009">書昌</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1126.0009"
-       id="text304642"><tspan
-         sodipodi:role="line"
-         id="tspan304640"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1126.0009">船常</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1156.0009"
-       id="text304646"><tspan
-         sodipodi:role="line"
-         id="tspan304644"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1156.0009">日</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1196.0007"
-       id="text304650"><tspan
-         sodipodi:role="line"
-         id="tspan304648"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1196.0007">支衣</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1200.0007"
-       id="text304654"><tspan
-         sodipodi:role="line"
-         id="tspan304652"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1200.0007">(支脂之微開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1206.0007"
-       id="text304658"><tspan
-         sodipodi:role="line"
-         id="tspan304656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1206.0007">鍼</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1210.0007"
-       id="text304662"><tspan
-         sodipodi:role="line"
-         id="tspan304660"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1210.0007">(侵韻)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1216.0007"
-       id="text304666"><tspan
-         sodipodi:role="line"
-         id="tspan304664"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1216.0007">真</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1220.0007"
-       id="text304670"><tspan
-         sodipodi:role="line"
-         id="tspan304668"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1220.0007">(真臻開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1266.001"
-       id="text304674"><tspan
-         sodipodi:role="line"
-         id="tspan304672"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1266.001">錐微</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1270.001"
-       id="text304678"><tspan
-         sodipodi:role="line"
-         id="tspan304676"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1270.001">(支脂微合)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1276.0012"
-       id="text304682"><tspan
-         sodipodi:role="line"
-         id="tspan304680"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1276.0012">諄</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1280.0012"
-       id="text304686"><tspan
-         sodipodi:role="line"
-         id="tspan304684"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1280.0012">(真諄合)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1066.0005"
-       id="text304690"><tspan
-         sodipodi:role="line"
-         id="tspan304688"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1066.0005">見</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1096.0009"
-       id="text304694"><tspan
-         sodipodi:role="line"
-         id="tspan304692"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1096.0009">溪</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1126.0009"
-       id="text304698"><tspan
-         sodipodi:role="line"
-         id="tspan304696"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1126.0009">群</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1156.0009"
-       id="text304702"><tspan
-         sodipodi:role="line"
-         id="tspan304700"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1156.0009">疑</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1196.0007"
-       id="text304706"><tspan
-         sodipodi:role="line"
-         id="tspan304704"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1196.0007">齊</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1206.0007"
-       id="text304714"><tspan
-         sodipodi:role="line"
-         id="tspan304712"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1206.0007">鹽</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1216.0007"
-       id="text304722"><tspan
-         sodipodi:role="line"
-         id="tspan304720"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1216.0007">先</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1266.001"
-       id="text304730"><tspan
-         sodipodi:role="line"
-         id="tspan304728"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1266.001">蕭</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1276.0012"
-       id="text304738"><tspan
-         sodipodi:role="line"
-         id="tspan304736"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1276.0012">文</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1066.0005"
-       id="text304746"><tspan
-         sodipodi:role="line"
-         id="tspan304744"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1066.0005">阿</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1096.0009"
-       id="text304750"><tspan
-         sodipodi:role="line"
-         id="tspan304748"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1096.0009">曉</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1126.0009"
-       id="text304754"><tspan
-         sodipodi:role="line"
-         id="tspan304752"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1126.0009">河</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1156.0009"
-       id="text304758"><tspan
-         sodipodi:role="line"
-         id="tspan304756"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1156.0009">上去入</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1196.0007"
-       id="text304762"><tspan
-         sodipodi:role="line"
-         id="tspan304760"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1196.0007">歌麻</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1206.0007"
-       id="text304770"><tspan
-         sodipodi:role="line"
-         id="tspan304768"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1206.0007">覃咸</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1216.0007"
-       id="text304778"><tspan
-         sodipodi:role="line"
-         id="tspan304776"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1216.0007">元寒刪</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1266.001"
-       id="text304786"><tspan
-         sodipodi:role="line"
-         id="tspan304784"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1266.001">魚虞</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1276.0012"
-       id="text304794"><tspan
-         sodipodi:role="line"
-         id="tspan304792"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1276.0012">魂痕</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1130.0009"
-       id="text330768"><tspan
-         sodipodi:role="line"
-         id="tspan330766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1130.0009">(匣14開)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1070.0001"
-       id="text330774"><tspan
-         sodipodi:role="line"
-         id="tspan330772"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1070.0001"><tspan
-           id="tspan330770"
-           style="font-size:3px;fill:#000000">(影14開)</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1160.0007"
-       id="text341156"><tspan
-         sodipodi:role="line"
-         id="tspan341154"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1160.0007">(全濁入以外)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1186.0007"
-       id="text360794"><tspan
-         sodipodi:role="line"
-         id="tspan360792"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1186.0007"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan360790">3</tspan>開</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1256.0007"
-       id="text360800"><tspan
-         sodipodi:role="line"
-         id="tspan360798"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1256.0007"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan360796">1</tspan>合</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1256.0007"
-       id="text360806"><tspan
-         sodipodi:role="line"
-         id="tspan360804"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1256.0007"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan360802">34</tspan>合</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1226.0007"
-       id="text411306"><tspan
-         sodipodi:role="line"
-         id="tspan411304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1226.0007">江耕蒸</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1226.0007"
-       id="text420833"><tspan
-         sodipodi:role="line"
-         id="tspan420831"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1226.0007">京清青</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1226.0007"
-       id="text420837"><tspan
-         sodipodi:role="line"
-         id="tspan420835"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1226.0007">陽庚</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2679.9995"
-       y="1230.0005"
-       id="text445729"><tspan
-         sodipodi:role="line"
-         id="tspan445727"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2679.9995"
-         y="1230.0005">(庚3清青)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1230.0005"
-       id="text445733"><tspan
-         sodipodi:role="line"
-         id="tspan445731"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1230.0005">(庚2)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2659.9995"
-       y="1286.001"
-       id="text482140"><tspan
-         sodipodi:role="line"
-         id="tspan482138"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2659.9995"
-         y="1286.001">東冬</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.999"
-       y="1316.001"
-       id="text482144"><tspan
-         sodipodi:role="line"
-         id="tspan482142"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.999"
-         y="1316.001">豪肴</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.999"
-       y="1316.001"
-       id="text482148"><tspan
-         sodipodi:role="line"
-         id="tspan482146"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.999"
-         y="1316.001">灰佳</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1260.0011"
-       id="text501894"><tspan
-         sodipodi:role="line"
-         id="tspan501892"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1260.0011">(<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan514943">-a,e,ǝ</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2699.9995"
-       y="1190.0007"
-       id="text536537"><tspan
-         sodipodi:role="line"
-         id="tspan536535"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2699.9995"
-         y="1190.0007">(<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan536533">-a,o,ǝ,u</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2719.9995"
-       y="1260.0011"
-       id="text546400"><tspan
-         sodipodi:role="line"
-         id="tspan546398"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2719.9995"
-         y="1260.0011">(<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan546396">-a,ǝ</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1260.0011"
-       id="text546406"><tspan
-         sodipodi:role="line"
-         id="tspan546404"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1260.0011">(<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan546402">-a,ǝ</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;line-height:1.25;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2739.9995"
-       y="1190.0007"
-       id="text546412"><tspan
-         sodipodi:role="line"
-         id="tspan546410"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2739.9995"
-         y="1190.0007">(<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000"
-   id="tspan546408">-a,ǝ</tspan>)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9993"
-       y="1196.0006"
-       id="text583738"><tspan
-         sodipodi:role="line"
-         id="tspan583736"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9993"
-         y="1196.0006">(開音節)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
-       x="2789.9993"
-       y="1266.0002"
-       id="text583742"><tspan
-         sodipodi:role="line"
-         id="tspan583740"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic';fill:#000000;stroke-width:0.264583"
-         x="2789.9993"
-         y="1266.0002">(開音節)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -62585,7 +61381,9 @@
          style="font-size:4.5px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="-490.26367"
          y="1371.6694"
-         id="tspan668779">道の驛</tspan></text>
+         id="tspan668779">道<tspan
+   style="font-size:3px"
+   id="tspan12520">ノ</tspan>驛</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;stroke-width:0.264583"
@@ -62609,7 +61407,7 @@
          style="font-size:4.5px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="-400.28125"
          y="1361.6697"
-         id="tspan668789">立交橋</tspan></text>
+         id="tspan668789">結</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;stroke-width:0.264583"
@@ -62620,7 +61418,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:Tahoma;-inkscape-font-specification:Tahoma;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="-380.18677"
          y="1361.6697"
-         id="tspan668793">Interchange (IC)</tspan></text>
+         id="tspan668793">Interchange (IC/JCT) <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MS Gothic';-inkscape-font-specification:'MS Gothic'"
+   id="tspan17018">立交橋</tspan></tspan></text>
     <g
        id="g593005"
        style="stroke:#000000"
