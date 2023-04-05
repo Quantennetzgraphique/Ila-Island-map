@@ -13,7 +13,7 @@ Imaginary map for Ila Island.
 
 The island is at the position of Yamato Bank in the middle of Japan Sea, with land area close to Switzerland. It is divided to 12 provinces, which compose of cities and counties, which then compose of wards, towns and villages, which are then divided to avenues, blocks and settlements. 
 
-The capital city is Waçiu, and the largest city is Foçiu. The highest peak is Áişhám, the largest lake is Aşíwara Qo, the longest river is Lák Şý, and the largest resort is Jiáŋlǝm Kauŋyen. 
+The capital city is Waçiu, and the largest city is Fóçiu. The highest peak is Áişhám, the largest lake is Aşíwara Qo, the longest river is Lák Şý, and the largest resort is Jiáŋlǝm Kauŋyen. 
 
 The official language is Ila Creole, written in Chinese characters and Kana. Its standard form is Middle-West Dialect, and there are also Northeast and Southeast Dialects. The Middle-West Dialect uses mainly Chinese and Bohai (Balhae) vocabulary, and little aboriginal words remain. The Northeast Dialect uses mainly aboriginal vocabulary. The Southeast Dialect uses largely Japanese vocabulary, in addition to Chinese ones. In every dialect the grammar resembles the aboriginal language. The specialities in each dialect is apparent in the placenames across the island. 
 
