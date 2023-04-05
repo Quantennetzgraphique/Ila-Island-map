@@ -1,7 +1,7 @@
 # Ila-Island-map
 伊良島（いらのくに）という架空島嶼の地図です。
 
-位置は鯨海（日本海）の中央の大和堆の場所（暫定）。大きさは関西と東海地方の和に近い。12の州、そして市・郡、そして区・邑・郷に区分されている。
+位置は鯨海（日本海）の中央の大和堆の場所（暫定）。大きさは関西と東海地方の和に近い。12の州、そして市・郡、そして区・邑・郷（日本の区町村に相当）、そして通・坊・町・村（日本の町丁・大字に相当）に区分されている。
 
 首都は禾州市（いなす）、最大都市は浦州市（うらす）、最高峰は浅間山（あさまざん/アイシハム）、最大の湖は葦原湖（あしわらこ）、最長の河川は濼水（らくがわ）、最大のリゾート地は上林高原（じょうりんこうげん）。
 
@@ -11,7 +11,7 @@
 
 Imaginary map for Ila Island. 
 
-The island is at the position of Yamato Bank in the middle of Japan Sea, with land area close to Switzerland. It is divided to 12 provinces, which compose of cities and counties, which then compose of wards, towns and villages. 
+The island is at the position of Yamato Bank in the middle of Japan Sea, with land area close to Switzerland. It is divided to 12 provinces, which compose of cities and counties, which then compose of wards, towns and villages, which are then divided to avenues, blocks and settlements. 
 
 The capital city is Waçiu, and the largest city is Foçiu. The highest peak is Áişhám, the largest lake is Aşíwara Qo, the longest river is Lák Şý, and the largest resort is Jiáŋlǝm Kauŋyen. 
 
