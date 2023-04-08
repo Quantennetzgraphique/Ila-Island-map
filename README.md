@@ -43,7 +43,7 @@
 
 国語は伊良クレオール語。漢字とかなで表記され、ひらがなは固有語と外来語、カタカナは助詞を表す。標準語が中西方言で、その他に東北方言、東南方言がある。それぞれの方言の中心は禾州市、岬州市、鹽州市とされる。中西方言の単語は漢語と渤海語より取り入れたものが多く、先住民語の影が薄くなっている。東北方言は先住民語が多く使われている。東南方言は漢語も使うが和語の多用が目立つ。いずれの方言も文法が先住民語のまま。各地の地名（のローマ字表記）にそれぞれの方言の特色が見える。地図では全国各地名の中西方言（ローマ字表記）、東北方言（ローマ字表記、ただし東北地方を除いて中西方言と同一になってしまった場合が多い）と東南方言（ひらがな表記）読みが示されている。現代仮名遣いを用いているが四つ仮名とクヮの読み方が古風なので厳密に使い分けられており注意が必要。またハ行の子音は全てF[ɸ]。ローマ字の読み方は地図に載っている拼音表に参照。
 
-このレポジトリの内容はクリエイティブ・コモンズ表示-非営利4.0 (CC BY-NC 4.0) 国際ライセンスでご利用いただけます。ただし Verordnung_geografischen_Namen_20080521.pdf （地名条例）と Verordnung_Fahrplan_20091104.pdf （時刻表条例）はスイス連邦の法令検索サイト https://www.fedlex.admin.ch/ よりダウンロードして再配布しているもので、クリエイティブ・コモンズ表示-非営利-改変禁止4.0 (CC BY-NC-ND 4.0) 国際ライセンスが適用されています。またここで再配布している2つのVerordnungは公式の公表ではありませんのでご注意ください。
+このレポジトリの内容はクリエイティブ・コモンズ表示-非営利4.0 (CC BY-NC 4.0) 国際ライセンスでご利用いただけます。ただし Verordnung_geografischen_Namen_20080521.pdf （地名条例）と Verordnung_Fahrplan_20091104.pdf （時刻表条例）はスイス連邦の法令検索サイト https://www.fedlex.admin.ch/ よりダウンロードして再配布しているもので、クリエイティブ・コモンズ表示-非営利-改変禁止4.0 (CC BY-NC-ND 4.0) 国際ライセンスが適用されています。またここで再配布している2つのVerordnungは公式の公表ではありませんのでご注意ください。 https://www.fedlex.admin.ch/en/legal-information に参照。
 
 Imaginary map for Ila Island. 
 
@@ -55,4 +55,4 @@ The official language is Ila Creole, written in Chinese characters and Kana. Its
 
 Ila Island is proud of its railways, land survey and land development of Japanese level, its roads of British level, its buses, nature conservation and hiking facilities of Swiss level, its waterway transport of German level, its biking facilities of Dutch level, and its city development of Hong Kong level. 
 
-The content of this repository is licensed under a Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License. However, the two files Verordnung_geografischen_Namen_20080521.pdf and Verordnung_Fahrplan_20091104.pdf were downloaded directly from the official law website of Swiss Confederation https://www.fedlex.admin.ch/ and are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) International License. This is not an official publication of these two directives, and only the publication by the Federal Chancellery is authoritative.
+The content of this repository is licensed under a Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License. However, the two files Verordnung_geografischen_Namen_20080521.pdf and Verordnung_Fahrplan_20091104.pdf were downloaded directly from the official law website of Swiss Confederation https://www.fedlex.admin.ch/ and are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) International License. This is not an official publication of these two directives, and only the publication by the Federal Chancellery is authoritative. Please refer to https://www.fedlex.admin.ch/en/legal-information for more information. 
