@@ -1,42 +1,90 @@
 #目次
 
-- 地形圖: 
-    - [Karte.svg, Karte.pdf]
+- 地形圖: {filename: [Karte.svg, Karte.pdf], scale: 1/10万, size: 柾判×6}
 
 - 鐵道圖: 
-    - 運行系統圖: [Netzplan_Eisenbahnen.svg, Netzplan_Eisenbahnen.pdf]
-    - 時刻圖: [Netzgrafik.svg, Netzgrafik.pdf]
+    - 運行系統圖: [Netzplan_Bahn.svg, Netzplan_Bahn.pdf]
+    - 時刻圖: [Netzgrafik_Bahn.svg, Netzgrafik_Bahn.pdf]
     - 運賃圖: [Tarif.svg, Tarif.pdf]
     
 - 高速道路及國道圖: 
     - [Autobahnen_Nationalstrassen.svg, Autobahnen_Nationalstrassen.pdf]
 
 - 自轉車及徒步道圖: 
+    - [Wanderland_Veloland.svg, Wanderland_Veloland.pdf] 
 
 - 舊街道圖: 
 
 - 地方圖: 
 
-- 市内圖: 
-    - 浦州都市圈: 
-    - 禾州都市圈: 
-    - 硅州都市圈: 
-    - 津州都市圈: 
-    - 汀洲都市圈: 
-    - 鹽州都市圈: 
-    - 鋁州都市圈: 
-    - 豐浦都市圈: 
-    - 灘州都市圈: 
-    - 源州都市圈: 
-    - 嶺州都市圈: 
-    - 峰州都市圈: 
-    - 峪州都市圈: 
-    - 潤水都市圈: 
-    - 岬州都市圈: 
-    - 上林都市圈: 
+- 市内圖: #1/2.5万
+    - 浦州都市圈: {filename: [Karte_01_Fochiu.svg,    Karte_01_Fochiu.pdf],    scale: 1/2.5万, size: A0×4}
+    - 禾州都市圈: {filename: [Karte_02_Wachiu.svg,    Karte_02_Wachiu.pdf],    scale: 1/2.5万, size: A0×2}
+    - 硅州都市圈: {filename: [Karte_03_Kyechiu.svg,   Karte_03_Kyechiu.pdf],   scale: 1/2.5万, size: A0×2}
+    - 津州都市圈: {filename: [Karte_04_Ceonchiu.svg,  Karte_04_Ceonchiu.pdf],  scale: 1/2.5万, size: A0}
+    - 汀洲都市圈: {filename: [Karte_05_Thengchiu.svg, Karte_05_Thengchiu.pdf], scale: 1/2.5万, size: A0}
+    - 鹽州都市圈: {filename: [Karte_06_Iemchiu.svg,   Karte_06_Iemchiu.pdf],   scale: 1/2.5万, size: A0}
+    - 豐浦都市圈: {filename: [Karte_07_Fongfo.svg,    Karte_07_Fongfo.pdf],    scale: 1/2.5万, size: A0}
+    - 鵜泊都市圏: {filename: [Karte_08_Debrak.svg,    Karte_08_Debrak.pdf],    scale: 1/2.5万, size: A0}
+    
+    - 灘州都市圈: {filename: [Karte_09_Thanchiu.svg,  Karte_09_Thanchiu.pdf],  scale: 1/2.5万, size: A1}
+    - 源州都市圈: {filename: [Karte_10_Ngyanchiu.svg, Karte_10_Ngyanchiu.pdf], scale: 1/2.5万, size: A1}
+    - 鋁州都市圈: {filename: [Karte_11_Lieochiu.svg,  Karte_11_Lieochiu.pdf],  scale: 1/2.5万, size: A1}
+    - 峰州都市圈: {filename: [Karte_12_Fongchiu.svg,  Karte_12_Fongchiu.pdf],  scale: 1/2.5万, size: A1}
+    - 濂溪都市圈: {filename: [Karte_13_Lemxe.svg,     Karte_13_Lemxe.pdf],     scale: 1/2.5万, size: A1}
+    - 峪州都市圈: {filename: [Karte_14_Iokchiu.svg,   Karte_14_Iokchiu.pdf],   scale: 1/2.5万, size: A1}
+    - 嶺州都市圈: {filename: [Karte_15_Lengchiu.svg,  Karte_15_Lengchiu.pdf],  scale: 1/2.5万, size: A1}
+    - 岬州都市圈: {filename: [Karte_16_Kravchiu.svg,  Karte_16_Kravchiu.pdf],  scale: 1/2.5万, size: A1}
+
+- 觀光圖: 
+    - 上林國立公園: 
+    - 葦原國立公園: 
+    - 淺間國立公園: 
+    - 間宮岬國立公園: 
+    - 奥派水國立公園: 
+    - 藍峴國立公園: 
+    - 東濱國立公園: 
+    - 螢山國立公園: 
+
+- 詳細圖: #1/1万
 
 - 鐵道配線圖: 
-    - 新幹線: [Gleisplan_Seonkansen.svg, Gleisplan_Seonkansen.pdf] 
+    - 新幹線:   [Gleisplan_01_Seonkansen.svg, Gleisplan_01_Seonkansen.pdf] 
+    - 臨海各線: [Gleisplan_02_Leomhai.svg,    Gleisplan_02_Leomhai.pdf] 
+    - 京浦各線: [Gleisplan_03_Kengfo.svg,     Gleisplan_03_Kengfo.pdf] 
+    - 京灘各線: [Gleisplan_04_Kengthan.svg,   Gleisplan_04_Kengthan.pdf] 
+    - 京鋁各線: [Gleisplan_05_Kenglieo.svg,   Gleisplan_05_Kenglieo.pdf] 
+    - 京津各線: [Gleisplan_06_Kengceon.svg,   Gleisplan_06_Kengceon.pdf] 
+    - 京岬各線: [Gleisplan_07_Kengkrav.svg,   Gleisplan_07_Kengkrav.pdf] 
+    - 京硅各線: [Gleisplan_08_Kengkye.svg,    Gleisplan_08_Kengkye.pdf] 
+    - 京源各線: [Gleisplan_09_Kengngyan.svg,  Gleisplan_09_Kengngyan.pdf] 
+    - 京鹽各線: [Gleisplan_10_Keng-iem.svg,   Gleisplan_10_Keng-iem.pdf] 
+    
+    - 濼水電鐵: [Gleisplan_11_Lakshy.svg,     Gleisplan_11_Lakshy.pdf] 
+    - 青空急行: [Gleisplan_12_Sengkiv.svg,    Gleisplan_12_Sengkiv.pdf] 
+    - 西原電鐵: [Gleisplan_13_Sengyan.svg,    Gleisplan_13_Sengyan.pdf] 
+    - 上林鐵道: [Gleisplan_14_Jiangleom.svg,  Gleisplan_14_Jiangleom.pdf] 
+    - 葦原鐵道: [Gleisplan_15_Yngyan.svg,     Gleisplan_15_Yngyan.pdf] 
+    
+    - 浦州地鐵: [Gleisplan_16_Fochiu_M.svg,   Gleisplan_16_Fochiu_M.pdf] 
+    - 浦州市電: [Gleisplan_17_Fochiu_T.svg,   Gleisplan_17_Fochiu_T.pdf] 
+    - 浦陰交通: [Gleisplan_18_Fokrau.svg,     Gleisplan_18_Fokrau.pdf] 
+    - 汀洲電鐵: [Gleisplan_19_Thengden.svg,   Gleisplan_19_Thengden.pdf] 
+    - 禾州地鐵: [Gleisplan_20_Wachiu_M.svg,   Gleisplan_20_Wachiu_M.pdf] 
+    - 禾州市電: [Gleisplan_21_Wachiu_T.svg,   Gleisplan_21_Wachiu_T.pdf] 
+    - 硅州地鐵: [Gleisplan_22_Kyechiu.svg,    Gleisplan_22_Kyechiu.pdf] 
+
+    - 永安登山: [Gleisplan_23_Yeng-an.svg,    Gleisplan_23_Yeng-an.pdf] 
+    - 汐灘鐵道: [Gleisplan_24_Zekthan.svg,    Gleisplan_24_Zekthan.pdf] 
+    - 藍山鐵路: [Gleisplan_25_Lamshran.svg,   Gleisplan_25_Lamshran.pdf] 
+    - 津州市電: [Gleisplan_26_Ceonchiu.svg,   Gleisplan_26_Ceonchiu.pdf] 
+    - 津濂電鐵: [Gleisplan_27_Ceonden.svg,    Gleisplan_27_Ceonden.pdf] 
+    - 長洲地鐵: [Gleisplan_28_Diangchiu.svg,  Gleisplan_28_Diangchiu.pdf] 
+    - 東濱鐵道: [Gleisplan_29_Tongpinh.svg,   Gleisplan_29_Tongpinh.pdf] 
+    - 源州市電: [Gleisplan_30_Ngyanchiu.svg,  Gleisplan_30_Ngyanchiu.pdf] 
+    - 嶺南交通: [Gleisplan_31_Lengnam.svg,    Gleisplan_31_Lengnam.pdf] 
+    
+    - 淺間林鐵: [Gleisplan_32_Senkran.svg,    Gleisplan_32_Senkran.pdf] 
 
 - 構内圖: 
     - 浦州驛: 
