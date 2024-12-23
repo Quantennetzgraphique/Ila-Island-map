@@ -14,8 +14,8 @@
 - 漢字の音読みを自動導出するプログラム
   - Ila_Creole_Hanzeo'im.js：「[切韻音系自動推導器](https://nk2028.shn.hk/tshet-uinh-autoderiver/)」に貼り付ければ、任意の文章に対して伊良クレオール語の漢字の音読みを自動導出できます。
 - 地名と時刻表の国家標準
-  - Verordnung_geografischen_Namen_20080521.pdf：スイスの地名条例。伊良島でも適用されています。
-  - Verordnung_Fahrplan_20091104.pdf：スイスの時刻表条例。伊良島でも適用されています。
+  - Verordnung_geografischen_Namen_20080521.pdf：スイスの地名条例。伊良島でも有効です。
+  - Verordnung_Fahrplan_20091104.pdf：スイスの時刻表条例。伊良島でも有効です。
 
 ## ローマ字の読み方
 
