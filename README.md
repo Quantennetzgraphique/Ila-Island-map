@@ -1,5 +1,8 @@
 # Ila-Island-map
 
+[ファイルの説明](##ファイルの説明) 
+[Files](##Files) 
+
 ## ファイルの説明
 
 - 伊良島の全図（作成中）
@@ -34,7 +37,7 @@
   - *Verordnung_geografischen_Namen_20080521.pdf*: Order of Geographic Names of Switzerland. It is also in effect in Ila Island. 
   - *Verordnung_Fahrplan_20091104.pdf*: Order of Timetable of Switzerland. It is also in effect in Ila Island. 
 
-## ローマ字の読み方 Pronunciation of Latin transcription
+## ローマ字の読み方 Pronunciation 
 
 伊良クレオール語のローマ字は基本的に日本語のローマ字と同じ読み方ですが、以下の点で違います。
 - ə /ɯ/: 日本語の「ウ」と韓国語の「으」に近いです。eoとも書きます。
