@@ -1,7 +1,10 @@
 # Ila-Island-map
 
-[ファイルの説明](##ファイルの説明) 
-[Files](##Files) 
+[ファイルの説明](#ファイルの説明) 
+
+[Files](#Files) 
+
+[ローマ字の読み方 Pronunciation][(#ローマ字の読み方 Pronunciation)
 
 ## ファイルの説明
 
