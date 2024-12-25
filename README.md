@@ -2,18 +2,15 @@
 
 ## 目次 Contents
 
-[ファイルの説明](#ファイルの説明) 
-
+[ファイルの説明](#ファイルの説明) / 
 [Files](#Files) 
 
-[ローマ字の読み方 Pronunciation](#ローマ字の読み方-Pronunciation) 
+[ローマ字の読み方 / Pronunciation](#ローマ字の読み方-Pronunciation) 
 
-[伊良島の概要](#伊良島の概要) 
-
+[伊良島の概要](#伊良島の概要) / 
 [Introduction to Ila Island](#Introduction-to-Ila-Island) 
 
-[共有・許可など](#共有・許可など) 
-
+[共有・許可など](#共有・許可など) / 
 [Distributions and permissions](#Distributions-and-permissions) 
 
 ## ファイルの説明
