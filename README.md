@@ -16,15 +16,16 @@
 ## ファイルの説明
 
 - 伊良島の全図（作成中）
-  - **Karte_Exportで始まるファイル：PDF形式の各縮尺の伊良島全図。現在は1:5万と1:10万があります。** 
+  - **Karte_M50_Ylada：1:50万、A3判の地図帳風の伊良島全図。** PDFとPNG形式があります。
+  - **Karte_Exportで始まるファイル：PDF形式の各縮尺の伊良島全図。現在は1:5万、1:10万と1:25万があります。** GISからの直接エクスポートなので凡例はなく、Karte_Mで始まる地図帳ページの凡例にご参照ください。
   - **Karte.qgz：[QGIS](https://qgis.org/)のプロジェクトファイル。** QGISはオープンソースのソフトウェアで公式サイトにて無料でダウンロードできます。
   - shapesフォルダ：地物の位置・形状・属性などを格納したシェープファイル。**Karte.qgzファイルをQGISで開くと自動的にshapesフォルダに含まれるファイルが読み取られてスクロール地図として閲覧・編集できます。** 
-  - Karte.svgとKarte.pdf：GIS化前の伊良島全図。旧バージョンです。
+  - Karte.svgとKarte.pdf：GIS化前の1:10万伊良島全図。旧バージョンです。
 - 伊良島の地図帳（作成中）
-  - **Karte_Mで始まるファイル：電子書籍風に整備されている凡例付きの地図帳ページ。Mの後の数字は縮尺（万を省略）。現在はA3ページのみですが、A1ページでも整備予定。**
+  - **Karte_Mで始まるファイル：電子書籍風に整備されている凡例付きの地図帳ページ。Mの後の数字は縮尺（万を省略）。** PDFとPNG形式があります。現在はA3判のみですが、A1判でも整備予定。
 - 配線図とダイヤグラム（作成中）
   - Gleisplanで始まるファイル：鉄道と軌道の配線図とダイヤグラム。
-- 漢字の音読みを自動導出するプログラム
+- 伊良クレオール語の漢字の音読みを自動導出するプログラム
   - Ila_Creole_Hanzeo'im.js：「[切韻音系自動推導器](https://nk2028.shn.hk/tshet-uinh-autoderiver/)」に貼り付ければ、任意の文章に対して伊良クレオール語の漢字の音読みを自動導出できます。
 - 地名と時刻表の国家標準
   - Verordnung_geografischen_Namen_20080521.pdf：スイスの地名条例。伊良島でも有効です。
@@ -32,16 +33,17 @@
 
 ## Files
 
-- Map of Ila Island (under construction) 
-  - **files starting with *Karte_Export*: map of whole Ila Island in various magnifications in pdf. Currently 1:50k and 1:100k maps are available.** 
+- Map of Ila Island (under construction)
+  - ***Karte_M50_Ylada*：map of the whole Ila island of magnification 1:500k in A3 size.** It has PDF and PNG versions. 
+  - **files starting with *Karte_Export*: map of whole Ila Island in various magnifications in pdf. Currently 1:50k, 1:100k and 1:250k maps are available.** 
   - ***Karte.qgz*: project file of [QGIS](https://qgis.org/).** QGIS is an open source software available for free download at the official website. 
   - *shapes* folder: shape files containing position, shape and properties of objects. **QGIS automatically reads files in this folder as Karte.qgz is opened, and scroll maps will be displayed and editable.** 
   - *Karte.svg* and *Karte.pdf*: old version of the map of whole Ila Island before GIS was adopted. 
 - Map book of Ila Island (under construction) 
-  - **files starting with *Karte_M*: Pages of the map book of Ila Island with legends. The number after M is magnification (in unit of 10⁴). There are currently only A3 pages, but I also plan to provide A1 pages.**
+  - **files starting with *Karte_M*: Pages of the map book of Ila Island with legends. The number after M is magnification (in unit of 10⁴).** They have PDF and PNG versions. There are currently only A3 page maps, but I also plan to provide A1 page maps. 
 - Track map and train diagram (under construction) 
   - files starting with *Gleisplan*: track map and train diagram of railways and trams. 
-- Program to convert Han characters to their Latin transcription
+- Program to convert Han characters to their Latin transcription in Ila Creole
   - *Ila_Creole_Hanzeo'im.js*: By pasting this program into [Tshet Uinh Autoderiver](https://nk2028.shn.hk/tshet-uinh-autoderiver/), the Latin transcription of any strings of Han characters in Ila Creole will be automatically derived. 
 - National standards of geographic names and timetables
   - *Verordnung_geografischen_Namen_20080521.pdf*: Order of Geographic Names of Switzerland. It is also in effect in Ila Island. 
