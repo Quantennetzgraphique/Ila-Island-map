@@ -16,8 +16,8 @@
         - 008: 永安郡 (10:  永安郡) ながやす;Yéŋ'an
         - 009: 玉川郡 (11:  玉川郡) たまがわ;Valaplána
         - 010: 匯川市 (12:  匯川郡) あいがわ;Wáiscyen
-    - 10: 浦州 うらす;Snácfacuni/Fósu
-        - 100: 浦州市 (13:  浦州府) うらす;Snácfacunia/Fósu
+    - 10: 浦州 うらす;Snacfäcuni/Fósu
+        - 100: 浦州市 (13:  浦州府) うらす;Snacfäcunia/Fósu
             - 10000: 四方街区
             - 10001: 西関区
         - 10050: 江東区 (14:江東府) かう゚とう゚;Chaslacárva 
@@ -90,21 +90,21 @@
         - 501: 潤水郡 (72:  潤水郡) うるうがわ;Chluivnús
         - 502: 石門郡 (73:  石門郡) せきもん;Schaplagrýt
         - 504: 阿林郡 (76:  阿林郡) ありむ;Alým
-    - 60: 硅州 きゑす;Fylipýdnacuni/Kyesu
-        - 600: 硅州市 (108: 東藩郡) きゑす;Fylipýdnacunia/Kyesu
+    - 60: 硅州 きゑす;Fylipydnäcuni/Kyesu
+        - 600: 硅州市 (108: 東藩郡) きゑす;Fylipydnäcunia/Kyesu
         - 601: 東莱市 (108: 東藩郡) とう゚ら゚い;Carvaláya
         - 602: 長洲市 (108: 東藩郡) ながす;Balinadúfta
         - 603: 安東郡 (108: 東藩郡) あんとう゚;Carvýsta
         - 604: 瀧溪郡 (108: 東藩郡) たきだに;Pysplachánca
         - 605: 上原郡 (108: 東藩郡) かみわら;Vraspálica
-    - 65: 峪州 たにす;Váncacuni/Vøksu
-        - 650: 峪州市 (77:  峪州府) たにす;Váncacunia/Vøksu
+    - 65: 峪州 たにす;Vancäcuni/Vøksu
+        - 650: 峪州市 (77:  峪州府) たにす;Vancäcunia/Vøksu
         - 651: 派水郡 (78:  派水郡) へがわ;Feayús
         - 652: 磁山郡 (79:  磁山郡) じさん;Sygdámfa
         - 653: 玉津郡 (80:  玉津郡) たまづ;Valaslách
         - 654: 沙陰郡 (108: 東藩郡) さふいむ;Savxnólima
-    - 70: 源州 みどす;Midósu/Fnaplánacuni
-        - 700: 源州市 (81:  葦原府) みどす;Midósu/Fnaplánacunia
+    - 70: 源州 みどす;Muidósu/Fnaplanäcuni
+        - 700: 源州市 (81:  葦原府) みどす;Muidósu/Fnaplanäcunia
         - 701: 汮陽郡 (82:  汮陽郡) きゐんやう゚;Cvylimáchpha
         - 702: 今切市 (83:  今切郡) き゚むせり;Xyclatácta
         - 703: 葉栗郡 (84:  葉栗郡) はぐり;Fagyl
@@ -113,8 +113,8 @@
         - 706: 櫻井郡 (87:  櫻井郡) さくらい;Sakwrái
         - 707: 凪和郡 (88:  凪和郡) なぎわ;Ñéŋ'wa
         - 708: 新城郡 (89:  新城郡) にゐしろ;Ñýşro
-    - 75: 峰州 みねす;Fiázacuni/Miñésu
-        - 750: 峰州市 (101: 峰州府) みねす;Fiázacunia/Miñésu
+    - 75: 峰州 みねす;Fiázcuni/Miñésu
+        - 750: 峰州市 (101: 峰州府) みねす;Fiázcunia/Miñésu
         - 751: 磯原郡 (102: 磯原郡) いそわら;Isówra
         - 752: 若耶郡 (103: 若耶郡) にやきや;Jniákya
         - 753: 面澤郡 (104: 面澤郡) めんざわ;Méndrak
